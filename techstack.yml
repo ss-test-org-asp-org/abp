@@ -1,0 +1,3176 @@
+repo_name: ss-test-org-asp-org/abp
+report_id: c71fe8d135a8b12f90e4554841d760e4
+repo_type: Public
+timestamp: '2023-12-07T12:24:50+00:00'
+requested_by: enisn
+provider: github
+branch: dev
+detected_tools_count: 235
+tools:
+- name: C#
+  description: Simple, general-purpose, object-oriented programming language for the
+    .NET platform
+  website_url: http://csharp.net
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1015/1200px-C_Sharp_wordmark.svg.png
+  detection_source: Repo Metadata
+- name: CSS 3
+  description: The latest evolution of the Cascading Style Sheets language
+  website_url: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source: Repo Metadata
+- name: Golang
+  description: An open source programming language that makes it easy to build simple,
+    reliable, and efficient software
+  website_url: http://golang.org/
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1005/O6AczwfV_400x400.png
+  detection_source: Repo Metadata
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source: Repo Metadata
+- name: Python
+  description: A clear and powerful object-oriented programming language, comparable
+    to Perl, Ruby, Scheme, or Java.
+  website_url: https://www.python.org
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source: npm/packs/timeago/package.json
+  last_updated_by: Halil ibrahim Kalkan
+  last_updated_on: 2018-06-14 11:54:44.000000000 Z
+- name: Ruby
+  description: A dynamic, interpreted, open source programming language with a focus
+    on simplicity and productivity
+  website_url: https://www.ruby-lang.org
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/989/ruby.png
+  detection_source: templates/app/react-native/package.json
+  last_updated_by: mehmet-erim
+  last_updated_on: 2020-03-13 10:01:49.000000000 Z
+- name: Smarty
+  description: Template engine for PHP
+  website_url: http://www.smarty.net/
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Templating Languages & Extensions
+  image_url: https://img.stackshare.io/service/3693/smarty.png
+  detection_source: Repo Metadata
+- name: TypeScript
+  description: A superset of JavaScript that compiles to clean JavaScript output
+  website_url: http://www.typescriptlang.org
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1612/bynNY5dJ.jpg
+  detection_source: Repo Metadata
+- name: ".NET"
+  description: A free, cross-platform, open source developer platform for building
+    many different types of applications
+  website_url: http://www.microsoft.com/net/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/1014/IoPy1dce_400x400.png
+  detection_source: templates/app/aspnet-core/test/MyCompanyName.MyProjectName.Web.Tests/MyCompanyName.MyProjectName.Web.Tests.csproj
+  last_updated_by: liangshiwei
+  last_updated_on: 2021-09-20 06:27:52.000000000 Z
+- name: ".NET Core"
+  description: An Open Source, General-Purpose Development Platform Maintained by
+    Microsoft and the .NET Community
+  website_url: https://docs.microsoft.com/en-us/dotnet/core/
+  version: '6.0'
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/6403/default_91fc1f0ee315262794273aa1387eaf8fed8436e6.png
+  detection_source_url: github.com/ss-test-org-asp-org/abp/blob/dev/framework/src/Volo.Abp.AspNetCore.Authentication.JwtBearer/Volo.Abp.AspNetCore.Authentication.JwtBearer.csproj
+  detection_source: framework/src/Volo.Abp.AspNetCore.Authentication.JwtBearer/Volo.Abp.AspNetCore.Authentication.JwtBearer.csproj
+  last_updated_by: maliming
+  last_updated_on: 2020-11-17 09:19:11.000000000 Z
+- name: ASP.NET Core
+  description: A cross-platform .NET framework for building modern cloud-based web
+    applications on Windows, Mac, or Linux
+  website_url: docs.microsoft.com/en-us/aspnet/core/
+  version: 2.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/11331/asp.net-core.png
+  detection_source_url: github.com/ss-test-org-asp-org/abp/blob/dev/abp_io/AbpIoLocalization/AbpIoLocalization/AbpIoLocalization.csproj
+  detection_source: framework/src/Volo.Abp.AspNetCore.Authentication.JwtBearer/Volo.Abp.AspNetCore.Authentication.JwtBearer.csproj
+  last_updated_by: maliming
+  last_updated_on: 2020-11-17 09:19:11.000000000 Z
+- name: Angular
+  description: A platform for building mobile and desktop web applications
+  website_url: https://angular.io
+  version: 13.1.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Javascript MVC Frameworks
+  image_url: https://img.stackshare.io/service/3745/cb8U-gL6_400x400.jpg
+  detection_source_url: github.com/ss-test-org-asp-org/abp/blob/dev/npm/ng-packs/yarn.lock
+  detection_source: modules/cms-kit/angular/package.json
+  last_updated_by: mehmet-erim
+  last_updated_on: 2021-10-22 08:31:19.000000000 Z
+- name: Bootstrap
+  description: Simple and flexible HTML, CSS, and JS for popular UI components and
+    interactions
+  website_url: http://getbootstrap.com/
+  version: 5.1.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Front-End Frameworks
+  image_url: https://img.stackshare.io/service/1101/C9QJ7V3X.png
+  detection_source_url: github.com/ss-test-org-asp-org/abp/blob/dev/modules/basic-theme/test/Volo.Abp.AspNetCore.Mvc.UI.Bootstrap.Demo/yarn.lock
+  detection_source: npm/ng-packs/package.json
+  last_updated_by: muhammedaltug
+  last_updated_on: 2022-01-11 07:58:06.000000000 Z
+- name: Chart.js
+  description: Simple, clean and engaging charts for designers and developers
+  website_url: http://www.chartjs.org/
+  version: 3.6.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/service/3866/_GD1-XrU_400x400.jpg
+  detection_source_url: github.com/ss-test-org-asp-org/abp/blob/dev/npm/ng-packs/yarn.lock
+  detection_source: npm/ng-packs/package.json
+  last_updated_by: Mehmet Erim
+  last_updated_on: 2021-09-17 07:20:28.000000000 Z
+- name: Expo
+  description: Build one project that runs natively on all your users' devices
+  website_url: https://expo.dev/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Cross-Platform Mobile Development
+  image_url: https://img.stackshare.io/service/5795/default_683a3de22a6983c41f27b04348f4c7380c5e3c21.jpg
+  detection_source: templates/app/react-native/package.json
+  last_updated_by: mehmet-erim
+  last_updated_on: 2020-03-13 10:01:49.000000000 Z
+- name: Node.js
+  description: A platform built on Chrome's JavaScript runtime for easily building
+    fast, scalable network applications
+  website_url: http://nodejs.org/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png
+  detection_source: modules/basic-theme/test/Volo.Abp.AspNetCore.Mvc.UI.Theme.Basic.Demo/wwwroot/libs/prismjs/package.json
+  last_updated_by: Volosoft Agent
+  last_updated_on: 2022-03-08 10:51:07.000000000 Z
+- name: PostCSS
+  description: Transform CSS with JS plugins
+  website_url: https://github.com/postcss/postcss
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: CSS Pre-processors / Extensions
+  image_url: https://img.stackshare.io/service/3339/rlFcjEdI.png
+  detection_source: npm/ng-packs/package.json
+  last_updated_by: Halil İbrahim Kalkan
+  last_updated_on: 2019-07-29 14:54:39.000000000 Z
+- name: React
+  description: A JavaScript library for building user interfaces
+  website_url: https://reactjs.org/
+  version: 17.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript UI Libraries
+  image_url: https://img.stackshare.io/service/1020/OYIaJ1KK.png
+  detection_source_url: github.com/ss-test-org-asp-org/abp/blob/dev/templates/app/react-native/package.json
+  detection_source: templates/app/react-native/package.json
+  last_updated_by: mehmet-erim
+  last_updated_on: 2022-01-20 07:59:45.000000000 Z
+- name: React Native
+  description: A framework for building native apps with React
+  website_url: http://facebook.github.io/
+  version: 0.64.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Cross-Platform Mobile Development
+  image_url: https://img.stackshare.io/service/2699/KoK6gHzp.jpg
+  detection_source_url: github.com/ss-test-org-asp-org/abp/blob/dev/templates/app/react-native/package.json
+  detection_source: templates/app/react-native/package.json
+  last_updated_by: mehmet-erim
+  last_updated_on: 2022-01-20 07:59:45.000000000 Z
+- name: Redux
+  description: Predictable state container for JavaScript apps
+  website_url: https://redux.js.org/
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: State Management Library
+  image_url: https://img.stackshare.io/service/4074/13142323.png
+  detection_source: templates/app/react-native/package.json
+  last_updated_by: mehmet-erim
+  last_updated_on: 2022-01-20 07:59:45.000000000 Z
+- name: RxJS
+  description: The Reactive Extensions for JavaScript
+  website_url: http://reactivex.io/rxjs/
+  version: 6.6.3
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Concurrency Frameworks
+  image_url: https://img.stackshare.io/service/1796/984368.png
+  detection_source_url: github.com/ss-test-org-asp-org/abp/blob/dev/npm/ng-packs/packages/schematics/yarn.lock
+  detection_source: modules/cms-kit/angular/package.json
+  last_updated_by: Halil İbrahim Kalkan
+  last_updated_on: 2020-07-10 22:44:47.000000000 Z
+- name: Select2
+  description: The jQuery replacement for select boxes
+  website_url: https://select2.github.io/
+  version: 4.0.13
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript UI Libraries
+  image_url: https://img.stackshare.io/service/7488/select2.png
+  detection_source_url: github.com/ss-test-org-asp-org/abp/blob/dev/modules/basic-theme/test/Volo.Abp.AspNetCore.Mvc.UI.Bootstrap.Demo/yarn.lock
+  detection_source: npm/packs/select2/package.json
+  last_updated_by: v-rr
+  last_updated_on: 2021-10-21 03:17:38.000000000 Z
+- name: Vue.js
+  description: A progressive framework for building user interfaces
+  website_url: http://vuejs.org/
+  version: 2.6.12
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript MVC Frameworks
+  image_url: https://img.stackshare.io/service/3837/paeckCWC.png
+  detection_source_url: github.com/ss-test-org-asp-org/abp/blob/dev/npm/packs/vue/package.json
+  detection_source: npm/packs/vue/package.json
+  last_updated_by: Galip Tolga Erdem
+  last_updated_on: 2020-11-10 14:06:38.000000000 Z
+- name: jQuery
+  description: The Write Less, Do More, JavaScript Library.
+  website_url: http://jquery.com/
+  version: 3.3.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript UI Libraries
+  image_url: https://img.stackshare.io/service/1021/lxEKmMnB_400x400.jpg
+  detection_source_url: github.com/ss-test-org-asp-org/abp/blob/dev/modules/basic-theme/test/Volo.Abp.AspNetCore.Mvc.UI.Bootstrap.Demo/yarn.lock
+  detection_source: modules/basic-theme/test/Volo.Abp.AspNetCore.Mvc.UI.Bootstrap.Demo/wwwroot/libs/malihu-custom-scrollbar-plugin/package.json
+  last_updated_by: bnymncoskuner
+  last_updated_on: 2021-08-11 09:56:52.000000000 Z
+- name: redux-saga
+  description: An alternative side effect model for Redux apps
+  website_url: https://redux-saga.github.io
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: State Management Library
+  image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source: templates/app/react-native/package.json
+  last_updated_by: mehmet-erim
+  last_updated_on: 2022-01-20 07:59:45.000000000 Z
+- name: Dapper
+  description: A simple object mapper for .Net
+  website_url: https://stackexchange.github.io/Dapper/
+  version: 2.0.90
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Object Relational Mapper (ORM)
+  image_url: https://img.stackshare.io/service/5847/default_377344b5aec46a959a5debae12cb81f81a64dce3.png
+  detection_source_url: github.com/ss-test-org-asp-org/abp/blob/dev/framework/src/Volo.Abp.Dapper/Volo.Abp.Dapper.csproj
+  detection_source: framework/src/Volo.Abp.Dapper/Volo.Abp.Dapper.csproj
+  last_updated_by: liangshiwei
+  last_updated_on: 2021-09-20 06:27:52.000000000 Z
+- name: Entity Framework
+  description: An object-relational mapper that enables .NET developers to work with
+    relational data
+  website_url: https://docs.microsoft.com/en-us/aspnet/entity-framework
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Object Relational Mapper (ORM)
+  image_url: https://img.stackshare.io/service/3251/no-img-open-source.png
+  detection_source: framework/src/Volo.Abp.EntityFrameworkCore.SqlServer/Volo.Abp.EntityFrameworkCore.SqlServer.csproj
+  last_updated_by: maliming
+  last_updated_on: 2021-07-30 06:36:31.000000000 Z
+- name: Entity Framework Core
+  description: 'Lightweight and cross-platform version of the popular Entity Framework '
+  website_url: https://docs.microsoft.com/en-us/ef/core/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Object Relational Mapper (ORM)
+  image_url: https://img.stackshare.io/service/10254/no-img-open-source.png
+  detection_source: framework/src/Volo.Abp.EntityFrameworkCore.SqlServer/Volo.Abp.EntityFrameworkCore.SqlServer.csproj
+  last_updated_by: maliming
+  last_updated_on: 2021-07-30 06:36:31.000000000 Z
+- name: Hangfire
+  description: Perform background processing in .NET and .NET Core applications
+  website_url: http://hangfire.io/
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Background Processing
+  image_url: https://img.stackshare.io/service/4676/7880472.png
+  detection_source: modules/background-jobs/app/Volo.Abp.BackgroundJobs.DemoApp.HangFire/Volo.Abp.BackgroundJobs.DemoApp.HangFire.csproj
+  last_updated_by: maliming
+  last_updated_on: 2020-12-09 08:16:57.000000000 Z
+- name: Microsoft SQL Server
+  description: A relational database management system developed by Microsoft
+  website_url: http://microsoft.com/sqlserver
+  open_source: false
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Databases
+  image_url: https://img.stackshare.io/service/1027/sql_server.png
+  detection_source: framework/src/Volo.Abp.EntityFrameworkCore.SqlServer/Volo.Abp.EntityFrameworkCore.SqlServer.csproj
+  last_updated_by: maliming
+  last_updated_on: 2020-11-17 09:19:11.000000000 Z
+- name: Minio
+  description: AWS S3 open source alternative written in Go
+  website_url: https://minio.io/
+  version: 4.0.1
+  license: AGPL-3.0
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Cloud Storage
+  image_url: https://img.stackshare.io/service/4485/gTawkyAA.png
+  detection_source_url: github.com/ss-test-org-asp-org/abp/blob/dev/framework/src/Volo.Abp.BlobStoring.Minio/Volo.Abp.BlobStoring.Minio.csproj
+  detection_source: framework/src/Volo.Abp.BlobStoring.Minio/Volo.Abp.BlobStoring.Minio.csproj
+  last_updated_by: maliming
+  last_updated_on: 2022-03-21 06:20:47.000000000 Z
+- name: PostgreSQL
+  description: A powerful, open source object-relational database system
+  website_url: http://www.postgresql.org/
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Databases
+  image_url: https://img.stackshare.io/service/1028/ASOhU5xJ.png
+  detection_source: framework/src/Volo.Abp.EntityFrameworkCore.PostgreSql/Volo.Abp.EntityFrameworkCore.PostgreSql.csproj
+  last_updated_by: maliming
+  last_updated_on: 2021-12-28 00:48:35.000000000 Z
+- name: Redis
+  description: Open source (BSD licensed), in-memory data structure store
+  website_url: http://redis.io/
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: In-Memory Databases
+  image_url: https://img.stackshare.io/service/1031/default_cbce472cd134adc6688572f999e9122b9657d4ba.png
+  detection_source: modules/cms-kit/host/Volo.CmsKit.HttpApi.Host/Volo.CmsKit.HttpApi.Host.csproj
+  last_updated_by: maliming
+  last_updated_on: 2020-11-17 09:19:11.000000000 Z
+- name: Redux Persist
+  description: A library to persist and rehydrate a redux store
+  website_url: https://github.com/rt2zz/redux-persist
+  version: 6.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/service/6740/no-img-open-source.png
+  detection_source_url: github.com/ss-test-org-asp-org/abp/blob/dev/templates/app/react-native/package.json
+  detection_source: templates/app/react-native/package.json
+  last_updated_by: mehmet-erim
+  last_updated_on: 2022-01-20 07:59:45.000000000 Z
+- name: SQLite
+  description: A software library that implements a self-contained, serverless, zero-configuration,
+    transactional SQL database engine
+  website_url: http://www.sqlite.org/
+  open_source: false
+  hosted_saas: true
+  category: Data Stores
+  sub_category: Databases
+  image_url: https://img.stackshare.io/service/1071/sqlite.jpg
+  detection_source: framework/src/Volo.Abp.EntityFrameworkCore.Sqlite/Volo.Abp.EntityFrameworkCore.Sqlite.csproj
+  last_updated_by: Dong Guo
+  last_updated_on: 2019-04-28 02:51:59.000000000 Z
+- name: Serverless AppSync
+  description: Easily and quickly deploy GraphQL APIs on AWS
+  website_url: https://github.com/serverless-components/aws-app-sync
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: GraphQL Tools
+  image_url: https://img.stackshare.io/service/11394/appsync.png
+  detection_source: modules/cms-kit/docker-compose.yml
+  last_updated_by: Halil İbrahim Kalkan
+  last_updated_on: 2020-07-10 22:44:47.000000000 Z
+- name: Babel
+  description: Use next generation JavaScript, today.
+  website_url: http://babeljs.io/
+  version: 7.15.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JavaScript Compilers
+  image_url: https://img.stackshare.io/service/2739/-1wfGjNw.png
+  detection_source_url: github.com/ss-test-org-asp-org/abp/blob/dev/npm/ng-packs/packages/schematics/yarn.lock
+  detection_source: templates/app/react-native/babel.config.js
+  last_updated_by: mehmet-erim
+  last_updated_on: 2020-03-13 10:01:49.000000000 Z
+- name: Chai
+  description: A BDD / TDD assertion library
+  website_url: http://chaijs.com/
+  version: 4.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/1725/chai.png
+  detection_source_url: github.com/ss-test-org-asp-org/abp/blob/dev/modules/basic-theme/test/Volo.Abp.AspNetCore.Mvc.UI.Theme.Basic.Demo/wwwroot/libs/prismjs/package.json
+  detection_source: modules/basic-theme/test/Volo.Abp.AspNetCore.Mvc.UI.Theme.Basic.Demo/wwwroot/libs/prismjs/package.json
+  last_updated_by: Armağan Ünlü
+  last_updated_on: 2020-09-17 07:17:26.000000000 Z
+- name: CodeMirror
+  description: A versatile text editor implemented in JavaScript for the browser
+  website_url: http://codemirror.net/
+  version: 5.65.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Text Editor
+  image_url: https://img.stackshare.io/service/2490/E_fCaAi6.png
+  detection_source_url: github.com/ss-test-org-asp-org/abp/blob/dev/npm/packs/codemirror/package.json
+  detection_source: npm/packs/codemirror/package.json
+  last_updated_by: maliming
+  last_updated_on: 2022-01-25 08:22:35.000000000 Z
+- name: Codecov
+  description: Hosted coverage reports with awesome features to enhance your CI workflow
+  website_url: https://codecov.io/
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Code Coverage
+  image_url: https://img.stackshare.io/service/2673/Codecov_Mark_Circle_Pink.png
+  detection_source: codecov.yml
+  last_updated_by: maliming
+  last_updated_on: 2021-10-15 13:58:08.000000000 Z
+- name: Cypress
+  description: When testing is easy, developers build better things faster and with
+    confidence.
+  website_url: https://www.cypress.io/
+  version: 7.7.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/9231/default_66c5c1a197dcd0232e41e4ab6299d119b4e165b3.png
+  detection_source_url: github.com/ss-test-org-asp-org/abp/blob/dev/npm/ng-packs/yarn.lock
+  detection_source: npm/ng-packs/package.json
+  last_updated_by: muhammedaltug
+  last_updated_on: 2022-01-11 07:58:06.000000000 Z
+- name: Docker
+  description: Enterprise Container Platform for High-Velocity Innovation.
+  website_url: https://www.docker.com/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Virtual Machine Platforms & Containers
+  image_url: https://img.stackshare.io/service/586/n4u37v9t_400x400.png
+  detection_source: Repo Metadata
+- name: Dotenv
+  description: Loads environment variables from .env for Nodejs projects
+  website_url: https://github.com/motdotla/dotenv
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Server Configuration and Automation
+  image_url: https://img.stackshare.io/service/8067/default_90dcb1286af7685c68df319c764b80704df1155b.png
+  detection_source: npm/ng-packs/package.json
+  last_updated_by: mehmet-erim
+  last_updated_on: 2021-11-10 12:51:31.000000000 Z
+- name: ESLint
+  description: The fully pluggable JavaScript code quality tool
+  website_url: http://eslint.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/3337/Q4L7Jncy.jpg
+  detection_source: modules/basic-theme/test/Volo.Abp.AspNetCore.Mvc.UI.Theme.Basic.Demo/wwwroot/libs/prismjs/package.json
+  last_updated_by: Armağan Ünlü
+  last_updated_on: 2020-09-17 07:17:26.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source: Repo Metadata
+- name: GitHub
+  description: Powerful collaboration, review, and code management for open source
+    and private development projects
+  website_url: https://github.com/
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Code Collaboration & Version Control
+  image_url: https://img.stackshare.io/service/27/default_869c34d29acc794d60ecdd5d2b5bfc042a80a4ec.jpg
+  detection_source: tools/github-changelog-generator/src/GithubChangelogGenerator/go.mod
+  last_updated_by: Arkat Erol
+  last_updated_on: 2019-11-20 12:13:27.000000000 Z
+- name: GitHub Actions
+  description: Automate your workflow from idea to production
+  website_url: https://github.com/features/actions
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Continuous Integration
+  image_url: https://img.stackshare.io/service/11563/actions.png
+  detection_source: ".github/workflows/angular.yml"
+  last_updated_by: mehmet-erim
+  last_updated_on: 2021-08-17 11:08:15.000000000 Z
+- name: Jasmine
+  description: DOM-less simple JavaScript testing framework
+  website_url: http://jasmine.github.io/
+  version: 2.8.0
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/831/7c0b595409af531b9cdeb07f8c513e8b.png
+  detection_source_url: github.com/ss-test-org-asp-org/abp/blob/dev/npm/ng-packs/yarn.lock
+  detection_source: modules/cms-kit/angular/package.json
+  last_updated_by: mehmet-erim
+  last_updated_on: 2021-10-22 08:31:19.000000000 Z
+- name: Jest
+  description: Painless JavaScript Unit Testing
+  website_url: http://facebook.github.io/jest/
+  version: 26.6.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/830/jest.png
+  detection_source_url: github.com/ss-test-org-asp-org/abp/blob/dev/npm/ng-packs/packages/schematics/yarn.lock
+  detection_source: npm/ng-packs/package.json
+  last_updated_by: Halil İbrahim Kalkan
+  last_updated_on: 2019-07-29 14:54:39.000000000 Z
+- name: Karma
+  description: Spectacular Test Runner for JavaScript
+  website_url: http://karma-runner.github.io/
+  version: 5.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Browser Testing
+  image_url: https://img.stackshare.io/service/1420/TidYGd6a.png
+  detection_source_url: github.com/ss-test-org-asp-org/abp/blob/dev/modules/cms-kit/angular/package.json
+  detection_source: modules/cms-kit/angular/package.json
+  last_updated_by: mehmet-erim
+  last_updated_on: 2021-10-22 08:31:19.000000000 Z
+- name: Mocha
+  description: Simple, flexible, fun javascript test framework for node.js &amp; the
+    browser
+  website_url: http://mochajs.org/
+  version: 5.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/832/mocha.png
+  detection_source_url: github.com/ss-test-org-asp-org/abp/blob/dev/modules/basic-theme/test/Volo.Abp.AspNetCore.Mvc.UI.Bootstrap.Demo/wwwroot/libs/highlight.js/package.json
+  detection_source: modules/basic-theme/test/Volo.Abp.AspNetCore.Mvc.UI.Bootstrap.Demo/wwwroot/libs/highlight.js/package.json
+  last_updated_by: Yunus Emre Kalkan
+  last_updated_on: 2018-12-17 07:35:34.000000000 Z
+- name: NuGet
+  description: The package manager for .NET
+  website_url: https://www.nuget.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/service/2637/6I3oEOP4_400x400.jpg
+  detection_source: templates/app/aspnet-core/test/MyCompanyName.MyProjectName.Web.Tests/MyCompanyName.MyProjectName.Web.Tests.csproj
+  last_updated_by: Halil ibrahim Kalkan
+  last_updated_on: 2018-06-20 07:51:44.000000000 Z
+- name: Polly
+  description: A .NET resilience and transient-fault-handling library
+  website_url: http://www.thepollyproject.org/
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Fault Tolerance Tools
+  image_url: https://img.stackshare.io/service/10882/default_8657bb75f24d5f46b223b0a61477221141a8874a.png
+  detection_source: templates/app/aspnet-core/test/MyCompanyName.MyProjectName.HttpApi.Client.ConsoleTestApp/MyCompanyName.MyProjectName.HttpApi.Client.ConsoleTestApp.csproj
+  last_updated_by: maliming
+  last_updated_on: 2021-11-09 01:15:56.000000000 Z
+- name: Prettier
+  description: 'Prettier is an opinionated code formatter. '
+  website_url: https://prettier.io/
+  version: 2.5.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/7035/default_66f265943abed56bcdbfca1c866a4261b1fbb063.jpg
+  detection_source_url: github.com/ss-test-org-asp-org/abp/blob/dev/npm/ng-packs/yarn.lock
+  detection_source: modules/basic-theme/test/Volo.Abp.AspNetCore.Mvc.UI.Theme.Basic.Demo/wwwroot/libs/prismjs/package.json
+  last_updated_by: Volosoft Agent
+  last_updated_on: 2022-03-08 10:51:07.000000000 Z
+- name: Protractor
+  description: End-to-end test framework for Angular and AngularJS applications
+  website_url: http://angular.github.io/protractor
+  version: 7.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/1754/protractor-logo1.png
+  detection_source_url: github.com/ss-test-org-asp-org/abp/blob/dev/npm/ng-packs/yarn.lock
+  detection_source: modules/cms-kit/angular/package.json
+  last_updated_by: mehmet-erim
+  last_updated_on: 2021-10-22 08:31:19.000000000 Z
+- name: PyPI
+  description: A repository of software for the Python programming language
+  website_url: https://pypi.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Hosted Package Repository
+  image_url: https://img.stackshare.io/service/12572/-RIWgodF_400x400.jpg
+  detection_source: npm/packs/timeago/package.json
+  last_updated_by: Halil ibrahim Kalkan
+  last_updated_on: 2018-06-14 11:54:44.000000000 Z
+- name: Rollbar
+  description: Proactively discover, predict, and remediate errors.
+  website_url: https://rollbar.com/
+  open_source: false
+  hosted_saas: true
+  category: Monitoring
+  sub_category: Exception Monitoring
+  image_url: https://img.stackshare.io/service/328/default_3147629185038a15dd41907749544023633da1ea.png
+  detection_source: npm/packs/malihu-custom-scrollbar-plugin/package.json
+  last_updated_by: v-rr
+  last_updated_on: 2021-10-21 03:17:38.000000000 Z
+- name: RubyGems
+  description: Easily download, install, and use ruby software packages on your system
+  website_url: https://rubygems.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/service/12795/5jL6-BA5_400x400.jpeg
+  detection_source: templates/app/react-native/package.json
+  last_updated_by: mehmet-erim
+  last_updated_on: 2020-03-13 10:01:49.000000000 Z
+- name: Serilog
+  description: A portable and structured logging framework to record diagnostic logs
+  website_url: http://serilog.net/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Monitoring
+  sub_category: Log Management
+  image_url: https://img.stackshare.io/service/4283/5691010.png
+  detection_source: framework/src/Volo.Abp.AspNetCore.Serilog/Volo.Abp.AspNetCore.Serilog.csproj
+  last_updated_by: maliming
+  last_updated_on: 2021-03-28 07:24:58.000000000 Z
+- name: TSLint
+  description: An extensible linter for the TypeScript language
+  website_url: https://github.com/palantir/tslint
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/5561/303157.png
+  detection_source: modules/cms-kit/angular/package.json
+  last_updated_by: Halil İbrahim Kalkan
+  last_updated_on: 2020-07-10 22:44:47.000000000 Z
+- name: Verdaccio
+  description: A lightweight private npm proxy registry
+  website_url: https://verdaccio.org
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/9786/pfymFpmu_400x400.jpg
+  detection_source: npm/verdaccio-containers/docker-compose.yml
+  last_updated_by: mehmet-erim
+  last_updated_on: 2021-01-05 17:15:50.000000000 Z
+- name: Visual Studio
+  description: State-of-the-art tools and services that you can use to create great
+    apps for devices, the cloud, and everything in between.
+  website_url: http://msdn.microsoft.com/en-us/vstudio/aa718325.aspx
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Integrated Development Environment
+  image_url: https://img.stackshare.io/service/1451/SR2hUhQN.png
+  detection_source: abp_io/AbpIoLocalization/AbpIoLocalization.sln
+  last_updated_by: maliming
+  last_updated_on: 2019-06-24 03:47:11.000000000 Z
+- name: Yarn
+  description: A new package manager for JavaScript
+  website_url: https://yarnpkg.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/5848/44mC-kJ3.jpg
+  detection_source: modules/basic-theme/test/Volo.Abp.AspNetCore.Mvc.UI.Bootstrap.Demo/yarn.lock
+  last_updated_by: Halil İbrahim Kalkan
+  last_updated_on: 2018-04-23 10:24:29.000000000 Z
+- name: gulp
+  description: The streaming build system
+  website_url: http://gulpjs.com/
+  version: 4.0.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JS Build Tools / JS Task Runners
+  image_url: https://img.stackshare.io/service/844/iruTC031.png
+  detection_source_url: github.com/ss-test-org-asp-org/abp/blob/dev/modules/basic-theme/test/Volo.Abp.AspNetCore.Mvc.UI.Bootstrap.Demo/yarn.lock
+  detection_source: modules/basic-theme/test/Volo.Abp.AspNetCore.Mvc.UI.Theme.Basic.Demo/wwwroot/libs/prismjs/package.json
+  last_updated_by: Volosoft Agent
+  last_updated_on: 2022-03-08 10:51:07.000000000 Z
+- name: highlight.js
+  description: Syntax highlighter in JavaScript
+  website_url: https://highlightjs.org/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Text Editor
+  image_url: https://img.stackshare.io/service/6888/c17e7d9688d86bd9f9506ec1fbd6d200_400x400.png
+  detection_source: modules/basic-theme/test/Volo.Abp.AspNetCore.Mvc.UI.Bootstrap.Demo/package.json
+  last_updated_by: Yunus Emre Kalkan
+  last_updated_on: 2018-12-17 07:35:34.000000000 Z
+- name: jsdom
+  description: A JavaScript implementation of the WHATWG DOM and HTML standards, for
+    use with node.js
+  website_url: https://github.com/jsdom/jsdom
+  version: 16.7.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Headless Browsers
+  image_url: https://img.stackshare.io/service/7054/preview.jpeg
+  detection_source_url: github.com/ss-test-org-asp-org/abp/blob/dev/npm/ng-packs/packages/schematics/yarn.lock
+  detection_source: modules/basic-theme/test/Volo.Abp.AspNetCore.Mvc.UI.Bootstrap.Demo/wwwroot/libs/highlight.js/package.json
+  last_updated_by: Yunus Emre Kalkan
+  last_updated_on: 2018-12-17 07:35:34.000000000 Z
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source: modules/basic-theme/test/Volo.Abp.AspNetCore.Mvc.UI.Theme.Basic.Demo/wwwroot/libs/prismjs/package.json
+  last_updated_by: Armağan Ünlü
+  last_updated_on: 2020-09-17 07:17:26.000000000 Z
+- name: xUnit
+  description: An open source, community-focused unit testing tool
+  website_url: http://xunit.github.io/
+  version: 2.4.1
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Testing Frameworks
+  image_url: https://img.stackshare.io/service/3077/ca5a327feb49ddfe1f4b11548907e5a1_400x400.png
+  detection_source_url: github.com/ss-test-org-asp-org/abp/blob/dev/modules/basic-theme/test/Volo.Abp.AspNetCore.Mvc.UI.Bootstrap.Demo.Tests/Volo.Abp.AspNetCore.Mvc.UI.Bootstrap.Demo.Tests.csproj
+  detection_source: framework/test/AbpTestBase/AbpTestBase.csproj
+  last_updated_by: maliming
+  last_updated_on: 2020-11-17 09:19:11.000000000 Z
+- name: Uppy
+  description: The next open source file uploader for web browsers
+  website_url: https://uppy.io/
+  version: 1.20.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Assets and Media
+  sub_category: File Uploads
+  image_url: https://img.stackshare.io/service/6446/n7bKmRs1.jpg
+  detection_source_url: github.com/ss-test-org-asp-org/abp/blob/dev/modules/cms-kit/host/Volo.CmsKit.Web.Unified/yarn.lock
+  detection_source: npm/packs/uppy/package.json
+  last_updated_by: Halil İbrahim Kalkan
+  last_updated_on: 2020-06-26 13:01:08.000000000 Z
+- name: Bluebird
+  description: A full featured promise library with unmatched performance
+  website_url: https://github.com/petkaantonov/bluebird/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/service/11991/bb.png
+  detection_source: modules/basic-theme/test/Volo.Abp.AspNetCore.Mvc.UI.Bootstrap.Demo/wwwroot/libs/highlight.js/package.json
+  last_updated_by: Yunus Emre Kalkan
+  last_updated_on: 2018-12-17 07:35:34.000000000 Z
+- name: Font Awesome
+  description: The internet's most popular icon toolkit
+  website_url: https://fontawesome.com/
+  version: 5.15.4
+  open_source: true
+  hosted_saas: false
+  category: Design
+  sub_category: Fonts
+  image_url: https://img.stackshare.io/service/3244/1_Mr1Fy00XjPGNf1Kkp_hWtw_2x.png
+  detection_source_url: github.com/ss-test-org-asp-org/abp/blob/dev/modules/basic-theme/test/Volo.Abp.AspNetCore.Mvc.UI.Bootstrap.Demo/yarn.lock
+  detection_source: npm/ng-packs/package.json
+  last_updated_by: mehmet-erim
+  last_updated_on: 2021-08-27 13:40:31.000000000 Z
+- name: Formik
+  description: Build forms in React
+  website_url: https://jaredpalmer.com/formik/
+  version: 2.2.9
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Application Utilities
+  sub_category: Web Forms
+  image_url: https://img.stackshare.io/service/8846/preview.png
+  detection_source_url: github.com/ss-test-org-asp-org/abp/blob/dev/templates/app/react-native/package.json
+  detection_source: templates/app/react-native/package.json
+  last_updated_by: mehmet-erim
+  last_updated_on: 2022-01-20 07:59:45.000000000 Z
+- name: HTML
+  description: Hypertext Markup Language for creating web pages.
+  website_url: http://
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/2270/no-img-open-source.png
+  detection_source: modules/cms-kit/angular/projects/dev-app/src/app/home/home.component.html
+- name: JSON Web Token
+  description: A JSON-based open standard for creating access tokens
+  website_url: http://jwt.io/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Application Utilities
+  sub_category: User Management and Authentication
+  image_url: https://img.stackshare.io/service/6417/jwt-icon.png
+  detection_source: framework/src/Volo.Abp.AspNetCore.Authentication.JwtBearer/Volo.Abp.AspNetCore.Authentication.JwtBearer.csproj
+  last_updated_by: Halil ibrahim Kalkan
+  last_updated_on: 2019-04-14 13:47:28.000000000 Z
+- name: LangChain
+  description: Build AI apps with LLMs through composability
+  website_url: https://github.com/hwchase17/langchain
+  open_source: true
+  hosted_saas: false
+  category: Communications
+  sub_category: Large Language Model Tools
+  image_url: https://img.stackshare.io/service/48790/default_5b6c6b73f1ff3775c85d2a1ba954cb87e30cbf13.jpg
+  detection_source: modules/basic-theme/test/Volo.Abp.AspNetCore.Mvc.UI.Theme.Basic.Demo/Logs/logs.txt
+  last_updated_by: maliming
+  last_updated_on: 2021-06-01 09:43:19.000000000 Z
+- name: Lerna
+  description: A tool for managing JavaScript projects
+  website_url: https://lerna.js.org/
+  version: 4.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/service/6207/OwqAUSQi_400x400.jpg
+  detection_source_url: github.com/ss-test-org-asp-org/abp/blob/dev/npm/ng-packs/yarn.lock
+  detection_source: npm/ng-packs/package.json
+  last_updated_by: mehmet-erim
+  last_updated_on: 2021-08-27 13:40:31.000000000 Z
+- name: Lodash
+  description: A JavaScript utility library
+  website_url: https://lodash.com
+  version: 4.17.21
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/service/2438/lodash.png
+  detection_source_url: github.com/ss-test-org-asp-org/abp/blob/dev/modules/basic-theme/test/Volo.Abp.AspNetCore.Mvc.UI.Bootstrap.Demo/yarn.lock
+  detection_source: modules/basic-theme/test/Volo.Abp.AspNetCore.Mvc.UI.Bootstrap.Demo/wwwroot/libs/highlight.js/package.json
+  last_updated_by: Yunus Emre Kalkan
+  last_updated_on: 2018-12-17 07:35:34.000000000 Z
+- name: Luxon
+  description: Library for working with dates and times in Javascript
+  website_url: https://moment.github.io/luxon/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/service/10330/no-img-open-source.png
+  detection_source: npm/packs/luxon/package.json
+  last_updated_by: maliming
+  last_updated_on: 2022-01-25 08:22:35.000000000 Z
+- name: OpenID Connect
+  description: An authorization framework
+  website_url: http://openid.net/connect/
+  open_source: false
+  hosted_saas: false
+  category: Application Utilities
+  sub_category: User Management and Authentication
+  image_url: https://img.stackshare.io/service/3620/openid-icon-250x250_400x400.png
+  detection_source: framework/src/Volo.Abp.AspNetCore.Authentication.OpenIdConnect/Volo.Abp.AspNetCore.Authentication.OpenIdConnect.csproj
+  last_updated_by: maliming
+  last_updated_on: 2020-11-17 09:19:11.000000000 Z
+- name: PowerShell
+  description: A task automation and configuration management framework
+  website_url: https://docs.microsoft.com/en-us/powershell/
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/3681/powershell-logo.png
+  detection_source: Repo Metadata
+- name: Prism
+  description: An extensible syntax highlighter, built with modern web standards
+  website_url: https://prismjs.com/
+  version: 1.27.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/service/10010/Screen_Shot_2012-07-31_at_21.57.03__400x400.png
+  detection_source_url: github.com/ss-test-org-asp-org/abp/blob/dev/modules/basic-theme/test/Volo.Abp.AspNetCore.Mvc.UI.Theme.Basic.Demo/yarn.lock
+  detection_source: npm/packs/prismjs/package.json
+  last_updated_by: maliming
+  last_updated_on: 2022-01-25 08:22:35.000000000 Z
+- name: Shell
+  description: A shell is a text-based terminal, used for manipulating programs and
+    files. Shell scripts typically manage program execution.
+  website_url: https://en.wikipedia.org/wiki/Shell_script
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source: Repo Metadata
+- name: SweetAlert
+  description: A beautiful replacement for JavaScript's "alert"
+  website_url: https://sweetalert.js.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://ucarecdn.com/c4c55828-7bcf-4661-8f4f-52745636aafd/
+  detection_source: npm/packs/sweetalert2/package.json
+  last_updated_by: maliming
+  last_updated_on: 2022-01-25 08:22:35.000000000 Z
+- name: axios
+  description: Promise based HTTP client for the browser and node.js
+  website_url: https://github.com/mzabriskie/axios
+  version: 0.24.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: github.com/ss-test-org-asp-org/abp/blob/dev/npm/scripts/yarn.lock
+  detection_source: npm/scripts/package.json
+  last_updated_by: mehmet-erim
+  last_updated_on: 2021-11-01 11:45:12.000000000 Z
+- name: chalk
+  description: terminal colors
+  website_url: https://github.com/chalk/chalk
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/8072/13122722.png
+  detection_source: npm/scripts/package.json
+  last_updated_by: mehmet-erim
+  last_updated_on: 2020-12-01 07:46:46.000000000 Z
+- name: danger
+  website_url: http://danger.systems
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/7944/no-img-open-source.png
+  detection_source: modules/basic-theme/test/Volo.Abp.AspNetCore.Mvc.UI.Theme.Basic.Demo/wwwroot/libs/prismjs/package.json
+  last_updated_by: Volosoft Agent
+  last_updated_on: 2022-03-08 10:51:07.000000000 Z
+- name: yup
+  website_url: https://github.com/jquense/yup
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/10756/339286.png
+  detection_source: templates/app/react-native/package.json
+  last_updated_by: mehmet-erim
+  last_updated_on: 2020-03-13 10:01:49.000000000 Z
+- name: "@angular-devkit/build-angular"
+  description: Angular Webpack Build Facade
+  package_url: https://www.npmjs.com/@angular-devkit/build-angular
+  version: 13.1.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16162/default_77b54a203c743d16eddb6b6390cba17218454fa0.png
+  detection_source_url: github.com/ss-test-org-asp-org/abp/blob/dev/npm/ng-packs/yarn.lock
+  detection_source: modules/cms-kit/angular/package.json
+  last_updated_by: mehmet-erim
+  last_updated_on: 2021-10-22 08:31:19.000000000 Z
+- name: "@angular-devkit/build-ng-packagr"
+  description: Angular Build Architect for ng-packagr
+  package_url: https://www.npmjs.com/@angular-devkit/build-ng-packagr
+  version: 0.1002.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16595/default_783b9b6c17b863f264c1418b0eb831316f741afd.png
+  detection_source_url: github.com/ss-test-org-asp-org/abp/blob/dev/npm/ng-packs/yarn.lock
+  detection_source: modules/cms-kit/angular/package.json
+  last_updated_by: mehmet-erim
+  last_updated_on: 2021-10-22 08:31:19.000000000 Z
+- name: "@angular-devkit/core"
+  description: Angular DevKit - Core Utility Library
+  package_url: https://www.npmjs.com/@angular-devkit/core
+  version: 11.0.7
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16682/default_6dad4e42e12d47cc6edfbdea036dae12f91abebb.png
+  detection_source_url: github.com/ss-test-org-asp-org/abp/blob/dev/npm/ng-packs/packages/schematics/yarn.lock
+  detection_source: npm/ng-packs/packages/schematics/package.json
+  last_updated_by: mehmet-erim
+  last_updated_on: 2020-12-02 12:55:35.000000000 Z
+- name: "@angular-devkit/schematics"
+  description: Angular Schematics - Library
+  package_url: https://www.npmjs.com/@angular-devkit/schematics
+  version: 11.0.7
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16789/default_55e3ea76a7929df1b71c5ea0c9b4130cc87323a4.png
+  detection_source_url: github.com/ss-test-org-asp-org/abp/blob/dev/npm/ng-packs/packages/schematics/yarn.lock
+  detection_source: npm/ng-packs/packages/schematics/package.json
+  last_updated_by: mehmet-erim
+  last_updated_on: 2020-12-02 12:55:35.000000000 Z
+- name: "@angular/animations"
+  description: Angular - animations integration with web-animations
+  package_url: https://www.npmjs.com/@angular/animations
+  version: 13.1.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16010/default_af9df0bc9fa88191d2fe609204c5bd7599c1a797.png
+  detection_source_url: github.com/ss-test-org-asp-org/abp/blob/dev/npm/ng-packs/yarn.lock
+  detection_source: modules/cms-kit/angular/package.json
+  last_updated_by: mehmet-erim
+  last_updated_on: 2021-10-22 08:31:19.000000000 Z
+- name: "@angular/cli"
+  description: CLI tool for Angular
+  package_url: https://www.npmjs.com/@angular/cli
+  version: 13.1.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16000/default_976847109ccfe67d00b33d9ff71329b6e82f5f89.png
+  detection_source_url: github.com/ss-test-org-asp-org/abp/blob/dev/npm/ng-packs/yarn.lock
+  detection_source: modules/cms-kit/angular/package.json
+  last_updated_by: mehmet-erim
+  last_updated_on: 2021-10-22 08:31:19.000000000 Z
+- name: "@angular/common"
+  description: Angular - commonly needed directives and services
+  package_url: https://www.npmjs.com/@angular/common
+  version: 13.1.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15913/default_ac622bc364a601d766b9a6f6039f191492f54d65.png
+  detection_source_url: github.com/ss-test-org-asp-org/abp/blob/dev/npm/ng-packs/yarn.lock
+  detection_source: modules/cms-kit/angular/package.json
+  last_updated_by: mehmet-erim
+  last_updated_on: 2021-10-22 08:31:19.000000000 Z
+- name: "@angular/compiler"
+  description: Angular - the compiler library
+  package_url: https://www.npmjs.com/@angular/compiler
+  version: 13.1.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15917/default_4040fefea2f98006727f63d042275b96a275ab2d.png
+  detection_source_url: github.com/ss-test-org-asp-org/abp/blob/dev/npm/ng-packs/yarn.lock
+  detection_source: modules/cms-kit/angular/package.json
+  last_updated_by: mehmet-erim
+  last_updated_on: 2021-10-22 08:31:19.000000000 Z
+- name: "@angular/compiler-cli"
+  description: Angular - the compiler CLI for Node.js
+  package_url: https://www.npmjs.com/@angular/compiler-cli
+  version: 13.1.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15927/default_e0a4fb1126d7400f419f0931cf1669947a5bc552.png
+  detection_source_url: github.com/ss-test-org-asp-org/abp/blob/dev/npm/ng-packs/yarn.lock
+  detection_source: modules/cms-kit/angular/package.json
+  last_updated_by: mehmet-erim
+  last_updated_on: 2021-10-22 08:31:19.000000000 Z
+- name: "@angular/forms"
+  description: Angular - directives and services for creating forms
+  package_url: https://www.npmjs.com/@angular/forms
+  version: 13.1.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15944/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
+  detection_source_url: github.com/ss-test-org-asp-org/abp/blob/dev/npm/ng-packs/yarn.lock
+  detection_source: modules/cms-kit/angular/package.json
+  last_updated_by: mehmet-erim
+  last_updated_on: 2021-10-22 08:31:19.000000000 Z
+- name: "@angular/language-service"
+  description: Angular - language services
+  package_url: https://www.npmjs.com/@angular/language-service
+  version: 13.1.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16047/default_924b66c04aa848a4028c1a5753a23dae0f835f86.png
+  detection_source_url: github.com/ss-test-org-asp-org/abp/blob/dev/npm/ng-packs/yarn.lock
+  detection_source: npm/ng-packs/package.json
+  last_updated_by: muhammedaltug
+  last_updated_on: 2022-01-11 07:58:06.000000000 Z
+- name: "@angular/platform-browser"
+  description: Angular - library for using Angular in a web browser
+  package_url: https://www.npmjs.com/@angular/platform-browser
+  version: 13.1.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15921/default_54b691c123fc8979741e800e4dcd3936c0f3b246.png
+  detection_source_url: github.com/ss-test-org-asp-org/abp/blob/dev/npm/ng-packs/yarn.lock
+  detection_source: modules/cms-kit/angular/package.json
+  last_updated_by: mehmet-erim
+  last_updated_on: 2021-10-22 08:31:19.000000000 Z
+- name: "@angular/platform-browser-dynamic"
+  description: Angular - library for using Angular in a web browser with JIT compilation
+  package_url: https://www.npmjs.com/@angular/platform-browser-dynamic
+  version: 13.1.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15933/default_b45165a5d30e541ab11711a34a78209b3e8ed7fd.png
+  detection_source_url: github.com/ss-test-org-asp-org/abp/blob/dev/npm/ng-packs/yarn.lock
+  detection_source: modules/cms-kit/angular/package.json
+  last_updated_by: mehmet-erim
+  last_updated_on: 2021-10-22 08:31:19.000000000 Z
+- name: "@angular/router"
+  description: Angular - the routing library
+  package_url: https://www.npmjs.com/@angular/router
+  version: 13.1.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15965/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
+  detection_source_url: github.com/ss-test-org-asp-org/abp/blob/dev/npm/ng-packs/yarn.lock
+  detection_source: modules/cms-kit/angular/package.json
+  last_updated_by: mehmet-erim
+  last_updated_on: 2021-10-22 08:31:19.000000000 Z
+- name: "@babel/core"
+  description: Babel compiler core
+  package_url: https://www.npmjs.com/@babel/core
+  version: 7.15.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15810/default_004658cda9b38934f2871435e9dc15608c86e8be.png
+  detection_source_url: github.com/ss-test-org-asp-org/abp/blob/dev/npm/ng-packs/packages/schematics/yarn.lock
+  detection_source: templates/app/react-native/package.json
+  last_updated_by: mehmet-erim
+  last_updated_on: 2022-01-20 07:59:45.000000000 Z
+- name: "@fortawesome/fontawesome-free"
+  description: The iconic font, CSS, and SVG framework
+  package_url: https://www.npmjs.com/@fortawesome/fontawesome-free
+  version: 5.15.4
+  license: CC-BY-4.0,OFL-1.1,MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17170/default_37d9ccc57ae4d32e7ff46614e4f8bb2c4ddc7964.png
+  detection_source_url: github.com/ss-test-org-asp-org/abp/blob/dev/modules/basic-theme/test/Volo.Abp.AspNetCore.Mvc.UI.Bootstrap.Demo/yarn.lock
+  detection_source: npm/ng-packs/package.json
+  last_updated_by: mehmet-erim
+  last_updated_on: 2021-08-27 13:40:31.000000000 Z
+- name: "@ng-bootstrap/ng-bootstrap"
+  description: Angular powered Bootstrap
+  package_url: https://www.npmjs.com/@ng-bootstrap/ng-bootstrap
+  version: 12.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17486/default_10a98ebc0146ab94b0fde6f7013c1279c82e4135.png
+  detection_source_url: github.com/ss-test-org-asp-org/abp/blob/dev/npm/ng-packs/yarn.lock
+  detection_source: npm/ng-packs/package.json
+  last_updated_by: Volosoft Agent
+  last_updated_on: 2022-04-05 03:28:09.000000000 Z
+- name: "@schematics/angular"
+  description: Schematics specific to Angular
+  package_url: https://www.npmjs.com/@schematics/angular
+  version: 11.0.7
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17661/default_eb9caf7d7fb4d231f7e3b04a8c1fbef6fcd9fd73.png
+  detection_source_url: github.com/ss-test-org-asp-org/abp/blob/dev/npm/ng-packs/packages/schematics/yarn.lock
+  detection_source: npm/ng-packs/package.json
+  last_updated_by: Volosoft Agent
+  last_updated_on: 2022-04-05 03:28:09.000000000 Z
+- name: "@types/execa"
+  description: Stub TypeScript definitions entry for execa
+  package_url: https://www.npmjs.com/@types/execa
+  version: 2.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17463/default_e5adc22c59a44962e41dfaec51edeb42c083f2f4.png
+  detection_source_url: github.com/ss-test-org-asp-org/abp/blob/dev/npm/packs/utils/yarn.lock
+  detection_source: npm/packs/utils/package.json
+  last_updated_by: v-rr
+  last_updated_on: 2021-10-21 03:17:38.000000000 Z
+- name: "@types/fs-extra"
+  description: TypeScript definitions for fs-extra
+  package_url: https://www.npmjs.com/@types/fs-extra
+  version: 8.1.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16170/default_1f3a2fc7d882e29a43394ecdf491b8989ea3f0fa.png
+  detection_source_url: github.com/ss-test-org-asp-org/abp/blob/dev/npm/ng-packs/scripts/yarn.lock
+  detection_source: npm/ng-packs/scripts/package.json
+  last_updated_by: mehmet-erim
+  last_updated_on: 2020-02-12 12:04:52.000000000 Z
+- name: "@types/jasmine"
+  description: TypeScript definitions for Jasmine
+  package_url: https://www.npmjs.com/@types/jasmine
+  version: 3.5.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15924/default_ac622bc364a601d766b9a6f6039f191492f54d65.png
+  detection_source_url: github.com/ss-test-org-asp-org/abp/blob/dev/modules/cms-kit/angular/package.json
+  detection_source: modules/cms-kit/angular/package.json
+  last_updated_by: mehmet-erim
+  last_updated_on: 2021-10-22 08:31:19.000000000 Z
+- name: "@types/jasminewd2"
+  description: TypeScript definitions for jasminewd2
+  package_url: https://www.npmjs.com/@types/jasminewd2
+  version: 2.0.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16060/default_924b66c04aa848a4028c1a5753a23dae0f835f86.png
+  detection_source_url: github.com/ss-test-org-asp-org/abp/blob/dev/modules/cms-kit/angular/package.json
+  detection_source: modules/cms-kit/angular/package.json
+  last_updated_by: mehmet-erim
+  last_updated_on: 2021-10-22 08:31:19.000000000 Z
+- name: "@types/jest"
+  description: TypeScript definitions for Jest
+  package_url: https://www.npmjs.com/@types/jest
+  version: 26.0.24
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15840/default_004658cda9b38934f2871435e9dc15608c86e8be.png
+  detection_source_url: github.com/ss-test-org-asp-org/abp/blob/dev/npm/ng-packs/packages/schematics/yarn.lock
+  detection_source: npm/ng-packs/package.json
+  last_updated_by: muhammedaltug
+  last_updated_on: 2022-01-11 07:58:06.000000000 Z
+- name: "@types/node"
+  description: TypeScript definitions for Node.js
+  package_url: https://www.npmjs.com/@types/node
+  version: 16.6.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15809/default_5e5e8ac63beda29f31f1844df64d4b8247570a66.png
+  detection_source_url: github.com/ss-test-org-asp-org/abp/blob/dev/npm/ng-packs/packages/schematics/yarn.lock
+  detection_source: modules/cms-kit/angular/package.json
+  last_updated_by: mehmet-erim
+  last_updated_on: 2021-10-22 08:31:19.000000000 Z
+- name: "@types/node-fetch"
+  description: TypeScript definitions for node-fetch
+  package_url: https://www.npmjs.com/@types/node-fetch
+  version: 2.5.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16459/default_5ffcf8d02a3454bd25d27d236025c6d078c3b672.png
+  detection_source_url: github.com/ss-test-org-asp-org/abp/blob/dev/modules/basic-theme/test/Volo.Abp.AspNetCore.Mvc.UI.Theme.Basic.Demo/wwwroot/libs/prismjs/package.json
+  detection_source: modules/basic-theme/test/Volo.Abp.AspNetCore.Mvc.UI.Theme.Basic.Demo/wwwroot/libs/prismjs/package.json
+  last_updated_by: Volosoft Agent
+  last_updated_on: 2022-03-08 10:51:07.000000000 Z
+- name: "@typescript-eslint/eslint-plugin"
+  description: TypeScript plugin for ESLint
+  package_url: https://www.npmjs.com/@typescript-eslint/eslint-plugin
+  version: 5.3.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15982/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
+  detection_source_url: github.com/ss-test-org-asp-org/abp/blob/dev/npm/ng-packs/yarn.lock
+  detection_source: npm/ng-packs/package.json
+  last_updated_by: muhammedaltug
+  last_updated_on: 2022-01-11 07:58:06.000000000 Z
+- name: "@typescript-eslint/parser"
+  description: An ESLint custom parser which leverages TypeScript ESTree
+  package_url: https://www.npmjs.com/@typescript-eslint/parser
+  version: 5.3.1
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15980/default_732016a20524708efe7a4c77497fe9bfeea19ba6.png
+  detection_source_url: github.com/ss-test-org-asp-org/abp/blob/dev/npm/ng-packs/yarn.lock
+  detection_source: npm/ng-packs/package.json
+  last_updated_by: muhammedaltug
+  last_updated_on: 2022-01-11 07:58:06.000000000 Z
+- name: ansi-colors
+  description: Easily add ANSI colors to your text and symbols in the terminal
+  package_url: https://www.npmjs.com/ansi-colors
+  version: 1.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17880/default_3bc64391130859f94a137a7dc6cb87cd54da546b.png
+  detection_source_url: github.com/ss-test-org-asp-org/abp/blob/dev/modules/basic-theme/test/Volo.Abp.AspNetCore.Mvc.UI.Bootstrap.Demo/yarn.lock
+  detection_source: npm/packs/aspnetcore.mvc.ui/package.json
+  last_updated_by: mehmet-erim
+  last_updated_on: 2020-06-29 10:20:16.000000000 Z
+- name: babel-preset-node6
+  description: Babel preset for Node 6.x
+  package_url: https://www.npmjs.com/babel-preset-node6
+  version: 11.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18173/default_208114ef9d765252208eff607e346d0056aeac17.png
+  detection_source_url: github.com/ss-test-org-asp-org/abp/blob/dev/npm/ng-packs/scripts/yarn.lock
+  detection_source: npm/ng-packs/scripts/package.json
+  last_updated_by: Arman Ozak
+  last_updated_on: 2020-08-12 08:57:50.000000000 Z
+- name: benchmark
+  description: A benchmarking library that supports high-resolution timers &amp; returns
+    statistically significant results
+  package_url: https://www.npmjs.com/benchmark
+  version: 2.1.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16241/default_cbc604730ab04341982d806fe402cd0706cc8bf4.png
+  detection_source_url: github.com/ss-test-org-asp-org/abp/blob/dev/modules/basic-theme/test/Volo.Abp.AspNetCore.Mvc.UI.Theme.Basic.Demo/wwwroot/libs/prismjs/package.json
+  detection_source: modules/basic-theme/test/Volo.Abp.AspNetCore.Mvc.UI.Theme.Basic.Demo/wwwroot/libs/prismjs/package.json
+  last_updated_by: Volosoft Agent
+  last_updated_on: 2022-03-08 10:51:07.000000000 Z
+- name: clipboard
+  description: Modern copy to clipboard. No Flash. Just 2kb
+  package_url: https://www.npmjs.com/clipboard
+  version: 2.0.10
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16838/default_5c6919c5e02b8e6c83f3a2b23db5b6962e3caca0.png
+  detection_source_url: github.com/ss-test-org-asp-org/abp/blob/dev/modules/basic-theme/test/Volo.Abp.AspNetCore.Mvc.UI.Theme.Basic.Demo/yarn.lock
+  detection_source: npm/packs/clipboard/package.json
+  last_updated_by: maliming
+  last_updated_on: 2022-01-25 08:22:35.000000000 Z
+- name: codelyzer
+  description: Linting for Angular applications
+  package_url: https://www.npmjs.com/codelyzer
+  version: 5.2.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15956/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
+  detection_source_url: github.com/ss-test-org-asp-org/abp/blob/dev/npm/packs/utils/yarn.lock
+  detection_source: modules/cms-kit/angular/package.json
+  last_updated_by: mehmet-erim
+  last_updated_on: 2021-10-22 08:31:19.000000000 Z
+- name: commander
+  description: The complete solution for node.js command-line programs
+  package_url: https://www.npmjs.com/commander
+  version: 4.1.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15829/default_50135978d26eba7c09093ceb23b96d522898e4eb.png
+  detection_source_url: github.com/ss-test-org-asp-org/abp/blob/dev/npm/ng-packs/scripts/yarn.lock
+  detection_source: modules/basic-theme/test/Volo.Abp.AspNetCore.Mvc.UI.Bootstrap.Demo/wwwroot/libs/highlight.js/package.json
+  last_updated_by: Yunus Emre Kalkan
+  last_updated_on: 2018-12-17 07:35:34.000000000 Z
+- name: del
+  description: Delete files and directories
+  package_url: https://www.npmjs.com/del
+  version: 2.2.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15907/default_a582b9fecca65f37fe68520c8f84d3bcae35db24.png
+  detection_source_url: github.com/ss-test-org-asp-org/abp/blob/dev/npm/ng-packs/yarn.lock
+  detection_source: modules/basic-theme/test/Volo.Abp.AspNetCore.Mvc.UI.Bootstrap.Demo/wwwroot/libs/highlight.js/package.json
+  last_updated_by: Yunus Emre Kalkan
+  last_updated_on: 2018-12-17 07:35:34.000000000 Z
+- name: docdash
+  description: A clean
+  package_url: https://www.npmjs.com/docdash
+  version: 1.2.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16873/default_768abdabb94806c932ace6262b6bbc8241907245.png
+  detection_source_url: github.com/ss-test-org-asp-org/abp/blob/dev/modules/basic-theme/test/Volo.Abp.AspNetCore.Mvc.UI.Theme.Basic.Demo/wwwroot/libs/prismjs/package.json
+  detection_source: modules/basic-theme/test/Volo.Abp.AspNetCore.Mvc.UI.Theme.Basic.Demo/wwwroot/libs/prismjs/package.json
+  last_updated_by: Volosoft Agent
+  last_updated_on: 2022-03-08 10:51:07.000000000 Z
+- name: eslint-config-prettier
+  description: Turns off all rules that are unnecessary or might conflict with Prettier
+  package_url: https://www.npmjs.com/eslint-config-prettier
+  version: 8.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15879/default_0b10af8ca19c215f781dc07442e75bdc831089d0.png
+  detection_source_url: github.com/ss-test-org-asp-org/abp/blob/dev/npm/ng-packs/yarn.lock
+  detection_source: npm/ng-packs/package.json
+  last_updated_by: Volosoft Agent
+  last_updated_on: 2022-04-05 03:28:09.000000000 Z
+- name: eslint-plugin-cypress
+  description: An ESLint plugin for projects using Cypress
+  package_url: https://www.npmjs.com/eslint-plugin-cypress
+  version: 2.12.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18548/default_0998c3a5bd64540d478b8f189bd9d22c3c17b6a0.png
+  detection_source_url: github.com/ss-test-org-asp-org/abp/blob/dev/npm/ng-packs/yarn.lock
+  detection_source: npm/ng-packs/package.json
+  last_updated_by: muhammedaltug
+  last_updated_on: 2022-01-11 07:58:06.000000000 Z
+- name: eslint-plugin-jsdoc
+  description: JSDoc linting rules for ESLint
+  package_url: https://www.npmjs.com/eslint-plugin-jsdoc
+  version: 32.3.0
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16672/default_783b9b6c17b863f264c1418b0eb831316f741afd.png
+  detection_source_url: github.com/ss-test-org-asp-org/abp/blob/dev/modules/basic-theme/test/Volo.Abp.AspNetCore.Mvc.UI.Theme.Basic.Demo/wwwroot/libs/prismjs/package.json
+  detection_source: modules/basic-theme/test/Volo.Abp.AspNetCore.Mvc.UI.Theme.Basic.Demo/wwwroot/libs/prismjs/package.json
+  last_updated_by: Volosoft Agent
+  last_updated_on: 2022-03-08 10:51:07.000000000 Z
+- name: esm
+  description: Tomorrow's ECMAScript modules today!
+  package_url: https://www.npmjs.com/esm
+  version: 3.2.25
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16371/default_17385ab3aa01d4c295c08d4a9736140df691c5e9.png
+  detection_source_url: github.com/ss-test-org-asp-org/abp/blob/dev/npm/ng-packs/scripts/yarn.lock
+  detection_source: npm/ng-packs/scripts/package.json
+  last_updated_by: mehmet-erim
+  last_updated_on: 2019-07-30 06:37:18.000000000 Z
+- name: execa
+  description: Process execution for humans
+  package_url: https://www.npmjs.com/execa
+  version: 1.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16132/default_3d197518f6bb529bfcc1b685e2cefbdfe83ff108.png
+  detection_source_url: github.com/ss-test-org-asp-org/abp/blob/dev/npm/ng-packs/packages/schematics/yarn.lock
+  detection_source: npm/ng-packs/scripts/package.json
+  last_updated_by: mehmet-erim
+  last_updated_on: 2019-07-30 06:37:18.000000000 Z
+- name: fast-glob
+  description: It's a very fast and efficient glob library for Node.js
+  package_url: https://www.npmjs.com/fast-glob
+  version: 3.2.7
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17033/default_50357c490b205882dcfb608fd3c74b446186c21e.png
+  detection_source_url: github.com/ss-test-org-asp-org/abp/blob/dev/npm/ng-packs/yarn.lock
+  detection_source: npm/package.json
+  last_updated_by: Mehmet Erim
+  last_updated_on: 2021-09-22 07:21:30.000000000 Z
+- name: fs-extra
+  description: Fs-extra contains methods that aren't included in the vanilla Node.js
+    fs package
+  package_url: https://www.npmjs.com/fs-extra
+  version: 8.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15836/default_b71c906aeda030a5e2f1fe40bf12a93be52404ab.png
+  detection_source_url: github.com/ss-test-org-asp-org/abp/blob/dev/npm/ng-packs/scripts/yarn.lock
+  detection_source: npm/ng-packs/scripts/package.json
+  last_updated_by: mehmet-erim
+  last_updated_on: 2020-02-12 12:04:52.000000000 Z
+- name: glob
+  description: A little globber
+  package_url: https://www.npmjs.com/glob
+  version: 7.1.4
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15875/default_7c39a83d4acd952df89b1ebfdb94c8646324fbf1.png
+  detection_source_url: github.com/ss-test-org-asp-org/abp/blob/dev/modules/basic-theme/test/Volo.Abp.AspNetCore.Mvc.UI.Bootstrap.Demo/yarn.lock
+  detection_source: modules/basic-theme/test/Volo.Abp.AspNetCore.Mvc.UI.Bootstrap.Demo/wwwroot/libs/highlight.js/package.json
+  last_updated_by: Yunus Emre Kalkan
+  last_updated_on: 2018-12-17 07:35:34.000000000 Z
+- name: got
+  description: Human-friendly and powerful HTTP request library for Node.js
+  package_url: https://www.npmjs.com/got
+  version: 11.8.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16258/default_ab17554b7e80af3d234b14168ed61e75d43f8eee.png
+  detection_source_url: github.com/ss-test-org-asp-org/abp/blob/dev/npm/ng-packs/packages/schematics/yarn.lock
+  detection_source: npm/ng-packs/package.json
+  last_updated_by: Halil İbrahim Kalkan
+  last_updated_on: 2019-07-29 14:54:39.000000000 Z
+  vulnerabilities:
+  - name: Got allows a redirect to a UNIX socket
+    cve_id: CVE-2022-33987
+    cve_url: https://github.com/advisories/GHSA-pfrx-2q88-qq97
+    detected_date: Jun 22
+    severity: moderate
+    first_patched: 11.8.5
+- name: gulp-clean-css
+  description: Minify css with clean-css
+  package_url: https://www.npmjs.com/gulp-clean-css
+  version: 4.3.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16301/default_3b7197abc4df3d7fa7c5292f17b2e6fb0cd1c8d4.png
+  detection_source_url: github.com/ss-test-org-asp-org/abp/blob/dev/modules/basic-theme/test/Volo.Abp.AspNetCore.Mvc.UI.Theme.Basic.Demo/wwwroot/libs/prismjs/package.json
+  detection_source: modules/basic-theme/test/Volo.Abp.AspNetCore.Mvc.UI.Theme.Basic.Demo/wwwroot/libs/prismjs/package.json
+  last_updated_by: Volosoft Agent
+  last_updated_on: 2022-03-08 10:51:07.000000000 Z
+- name: gulp-concat
+  description: Concatenates files
+  package_url: https://www.npmjs.com/gulp-concat
+  version: 2.3.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15973/default_732016a20524708efe7a4c77497fe9bfeea19ba6.png
+  detection_source_url: github.com/ss-test-org-asp-org/abp/blob/dev/modules/basic-theme/test/Volo.Abp.AspNetCore.Mvc.UI.Theme.Basic.Demo/wwwroot/libs/prismjs/package.json
+  detection_source: modules/basic-theme/test/Volo.Abp.AspNetCore.Mvc.UI.Theme.Basic.Demo/wwwroot/libs/prismjs/package.json
+  last_updated_by: Volosoft Agent
+  last_updated_on: 2022-03-08 10:51:07.000000000 Z
+- name: gulp-header
+  description: Gulp extension to add header to file
+  package_url: https://www.npmjs.com/gulp-header
+  version: 2.0.7
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16259/default_9924e5da1d50ea01e52b48e4fae4b1347af5e4ff.png
+  detection_source_url: github.com/ss-test-org-asp-org/abp/blob/dev/modules/basic-theme/test/Volo.Abp.AspNetCore.Mvc.UI.Theme.Basic.Demo/wwwroot/libs/prismjs/package.json
+  detection_source: modules/basic-theme/test/Volo.Abp.AspNetCore.Mvc.UI.Theme.Basic.Demo/wwwroot/libs/prismjs/package.json
+  last_updated_by: Volosoft Agent
+  last_updated_on: 2022-03-08 10:51:07.000000000 Z
+- name: gulp-jsdoc3
+  description: Gulp integration for jsdoc3 cli
+  package_url: https://www.npmjs.com/gulp-jsdoc3
+  version: 3.0.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17185/default_37d9ccc57ae4d32e7ff46614e4f8bb2c4ddc7964.png
+  detection_source_url: github.com/ss-test-org-asp-org/abp/blob/dev/modules/basic-theme/test/Volo.Abp.AspNetCore.Mvc.UI.Theme.Basic.Demo/wwwroot/libs/prismjs/package.json
+  detection_source: modules/basic-theme/test/Volo.Abp.AspNetCore.Mvc.UI.Theme.Basic.Demo/wwwroot/libs/prismjs/package.json
+  last_updated_by: Volosoft Agent
+  last_updated_on: 2022-03-08 10:51:07.000000000 Z
+- name: gulp-rename
+  description: Rename files
+  package_url: https://www.npmjs.com/gulp-rename
+  version: 1.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15895/default_e4668902f8489350db9b0fb228523a571ef05b26.png
+  detection_source_url: github.com/ss-test-org-asp-org/abp/blob/dev/modules/basic-theme/test/Volo.Abp.AspNetCore.Mvc.UI.Theme.Basic.Demo/wwwroot/libs/prismjs/package.json
+  detection_source: modules/basic-theme/test/Volo.Abp.AspNetCore.Mvc.UI.Theme.Basic.Demo/wwwroot/libs/prismjs/package.json
+  last_updated_by: Volosoft Agent
+  last_updated_on: 2022-03-08 10:51:07.000000000 Z
+- name: gulp-replace
+  description: A string replace plugin for gulp
+  package_url: https://www.npmjs.com/gulp-replace
+  version: 1.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16150/default_73326c44fbfa7369fd17573edb113e5d849468bc.png
+  detection_source_url: github.com/ss-test-org-asp-org/abp/blob/dev/modules/basic-theme/test/Volo.Abp.AspNetCore.Mvc.UI.Theme.Basic.Demo/wwwroot/libs/prismjs/package.json
+  detection_source: modules/basic-theme/test/Volo.Abp.AspNetCore.Mvc.UI.Theme.Basic.Demo/wwwroot/libs/prismjs/package.json
+  last_updated_by: Volosoft Agent
+  last_updated_on: 2022-03-08 10:51:07.000000000 Z
+- name: gulp-uglify
+  description: Minify files with UglifyJS
+  package_url: https://www.npmjs.com/gulp-uglify
+  version: 3.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15910/default_e0a4fb1126d7400f419f0931cf1669947a5bc552.png
+  detection_source_url: github.com/ss-test-org-asp-org/abp/blob/dev/modules/basic-theme/test/Volo.Abp.AspNetCore.Mvc.UI.Theme.Basic.Demo/wwwroot/libs/prismjs/package.json
+  detection_source: modules/basic-theme/test/Volo.Abp.AspNetCore.Mvc.UI.Theme.Basic.Demo/wwwroot/libs/prismjs/package.json
+  last_updated_by: Volosoft Agent
+  last_updated_on: 2022-03-08 10:51:07.000000000 Z
+- name: gzip-size
+  description: Get the gzipped size of a string or buffer
+  package_url: https://www.npmjs.com/gzip-size
+  version: 5.1.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16649/default_e654289254bcb9b55e3dca992739e962dc0c7297.png
+  detection_source_url: github.com/ss-test-org-asp-org/abp/blob/dev/modules/basic-theme/test/Volo.Abp.AspNetCore.Mvc.UI.Theme.Basic.Demo/wwwroot/libs/prismjs/package.json
+  detection_source: modules/basic-theme/test/Volo.Abp.AspNetCore.Mvc.UI.Theme.Basic.Demo/wwwroot/libs/prismjs/package.json
+  last_updated_by: Volosoft Agent
+  last_updated_on: 2022-03-08 10:51:07.000000000 Z
+- name: htmlparser2
+  description: Fast &amp; forgiving HTML/XML/RSS parser
+  package_url: https://www.npmjs.com/htmlparser2
+  version: 4.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16705/default_6dc099b12d47e378ae121fb53c336fe5d8f0ffc8.png
+  detection_source_url: github.com/ss-test-org-asp-org/abp/blob/dev/modules/basic-theme/test/Volo.Abp.AspNetCore.Mvc.UI.Theme.Basic.Demo/wwwroot/libs/prismjs/package.json
+  detection_source: modules/basic-theme/test/Volo.Abp.AspNetCore.Mvc.UI.Theme.Basic.Demo/wwwroot/libs/prismjs/package.json
+  last_updated_by: Volosoft Agent
+  last_updated_on: 2022-03-08 10:51:07.000000000 Z
+- name: http-server
+  description: A simple zero-configuration command-line http server
+  package_url: https://www.npmjs.com/http-server
+  version: 0.12.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16118/default_f905d9556a0330de59b502a579c1f5c4be2b48bf.png
+  detection_source_url: github.com/ss-test-org-asp-org/abp/blob/dev/modules/basic-theme/test/Volo.Abp.AspNetCore.Mvc.UI.Theme.Basic.Demo/wwwroot/libs/prismjs/package.json
+  detection_source: modules/basic-theme/test/Volo.Abp.AspNetCore.Mvc.UI.Theme.Basic.Demo/wwwroot/libs/prismjs/package.json
+  last_updated_by: Volosoft Agent
+  last_updated_on: 2022-03-08 10:51:07.000000000 Z
+- name: jasmine-core
+  description: Official packaging of Jasmine's core files for use by Node.js projects
+  package_url: https://www.npmjs.com/jasmine-core
+  version: 2.8.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15905/default_3af1504b6f77c55205ba630fe08c472f43b95f6e.png
+  detection_source_url: github.com/ss-test-org-asp-org/abp/blob/dev/npm/ng-packs/yarn.lock
+  detection_source: modules/cms-kit/angular/package.json
+  last_updated_by: mehmet-erim
+  last_updated_on: 2021-10-22 08:31:19.000000000 Z
+- name: jasmine-spec-reporter
+  description: Spec reporter for jasmine behavior-driven development framework
+  package_url: https://www.npmjs.com/jasmine-spec-reporter
+  version: 5.0.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16066/default_8725384794b44fe56f31da1d21ae759cf07be7a5.png
+  detection_source_url: github.com/ss-test-org-asp-org/abp/blob/dev/modules/cms-kit/angular/package.json
+  detection_source: modules/cms-kit/angular/package.json
+  last_updated_by: mehmet-erim
+  last_updated_on: 2021-10-22 08:31:19.000000000 Z
+- name: js-beautify
+  description: Beautifier.io for node
+  package_url: https://www.npmjs.com/js-beautify
+  version: 1.5.10
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16340/default_17385ab3aa01d4c295c08d4a9736140df691c5e9.png
+  detection_source_url: github.com/ss-test-org-asp-org/abp/blob/dev/modules/basic-theme/test/Volo.Abp.AspNetCore.Mvc.UI.Bootstrap.Demo/wwwroot/libs/highlight.js/package.json
+  detection_source: modules/basic-theme/test/Volo.Abp.AspNetCore.Mvc.UI.Bootstrap.Demo/wwwroot/libs/highlight.js/package.json
+  last_updated_by: Yunus Emre Kalkan
+  last_updated_on: 2018-12-17 07:35:34.000000000 Z
+- name: karma-chrome-launcher
+  description: A Karma plugin. Launcher for Chrome and Chrome Canary
+  package_url: https://www.npmjs.com/karma-chrome-launcher
+  version: 3.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15860/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
+  detection_source_url: github.com/ss-test-org-asp-org/abp/blob/dev/modules/cms-kit/angular/package.json
+  detection_source: modules/cms-kit/angular/package.json
+  last_updated_by: mehmet-erim
+  last_updated_on: 2021-10-22 08:31:19.000000000 Z
+- name: karma-coverage
+  description: A Karma plugin. Generate code coverage
+  package_url: https://www.npmjs.com/karma-coverage
+  version: 2.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15951/default_b45165a5d30e541ab11711a34a78209b3e8ed7fd.png
+  detection_source_url: github.com/ss-test-org-asp-org/abp/blob/dev/templates/app-nolayers/angular/package.json
+  detection_source: templates/app-nolayers/angular/package.json
+  last_updated_by: maliming
+  last_updated_on: 2022-01-27 07:51:00.000000000 Z
+- name: karma-coverage-istanbul-reporter
+  description: A karma reporter that uses the latest istanbul 1.x APIs
+  package_url: https://www.npmjs.com/karma-coverage-istanbul-reporter
+  version: 3.0.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15998/default_f8be85789693a9901dbcfa43c135c60525ae49a1.png
+  detection_source_url: github.com/ss-test-org-asp-org/abp/blob/dev/modules/cms-kit/angular/package.json
+  detection_source: modules/cms-kit/angular/package.json
+  last_updated_by: mehmet-erim
+  last_updated_on: 2021-10-22 08:31:19.000000000 Z
+- name: karma-jasmine
+  description: A Karma plugin - adapter for Jasmine testing framework
+  package_url: https://www.npmjs.com/karma-jasmine
+  version: 3.3.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15886/default_7c39a83d4acd952df89b1ebfdb94c8646324fbf1.png
+  detection_source_url: github.com/ss-test-org-asp-org/abp/blob/dev/modules/cms-kit/angular/package.json
+  detection_source: modules/cms-kit/angular/package.json
+  last_updated_by: mehmet-erim
+  last_updated_on: 2021-10-22 08:31:19.000000000 Z
+- name: karma-jasmine-html-reporter
+  description: A Karma plugin
+  package_url: https://www.npmjs.com/karma-jasmine-html-reporter
+  version: 1.5.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15999/default_7a465bc85b23fd837cbc038fd1d504632c41a884.png
+  detection_source_url: github.com/ss-test-org-asp-org/abp/blob/dev/modules/cms-kit/angular/package.json
+  detection_source: modules/cms-kit/angular/package.json
+  last_updated_by: mehmet-erim
+  last_updated_on: 2021-10-22 08:31:19.000000000 Z
+- name: markdown-it
+  description: Markdown-it - modern pluggable markdown parser
+  package_url: https://www.npmjs.com/markdown-it
+  version: 12.3.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16277/default_ab17554b7e80af3d234b14168ed61e75d43f8eee.png
+  detection_source_url: github.com/ss-test-org-asp-org/abp/blob/dev/npm/packs/markdown-it/package.json
+  detection_source: npm/packs/markdown-it/package.json
+  last_updated_by: maliming
+  last_updated_on: 2022-01-25 08:22:35.000000000 Z
+- name: merge-stream
+  description: Create a stream that emits events from multiple other streams
+  package_url: https://www.npmjs.com/merge-stream
+  version: 2.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16419/default_d73092129e1cde5ea9f47f22e2d7c3db7bd6da8d.png
+  detection_source_url: github.com/ss-test-org-asp-org/abp/blob/dev/modules/basic-theme/test/Volo.Abp.AspNetCore.Mvc.UI.Bootstrap.Demo/yarn.lock
+  detection_source: npm/packs/aspnetcore.mvc.ui/package.json
+  last_updated_by: mehmet-erim
+  last_updated_on: 2020-06-29 10:20:16.000000000 Z
+- name: micromatch
+  description: Glob matching for javascript/node.js
+  package_url: https://www.npmjs.com/micromatch
+  version: 3.1.10
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17143/default_0ffbf6d9ee2940fe94be8424fd9afff068fff458.png
+  detection_source_url: github.com/ss-test-org-asp-org/abp/blob/dev/modules/basic-theme/test/Volo.Abp.AspNetCore.Mvc.UI.Bootstrap.Demo/yarn.lock
+  detection_source: npm/packs/aspnetcore.mvc.ui/package.json
+  last_updated_by: Arman Ozak
+  last_updated_on: 2021-05-25 19:41:31.000000000 Z
+- name: ng-packagr
+  description: Compile and package a TypeScript library to Angular Package Format
+  package_url: https://www.npmjs.com/ng-packagr
+  version: 13.1.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16114/default_73326c44fbfa7369fd17573edb113e5d849468bc.png
+  detection_source_url: github.com/ss-test-org-asp-org/abp/blob/dev/npm/ng-packs/yarn.lock
+  detection_source: modules/cms-kit/angular/package.json
+  last_updated_by: mehmet-erim
+  last_updated_on: 2021-10-22 08:31:19.000000000 Z
+- name: node-fetch
+  description: A light-weight module that brings window.fetch to node.js
+  package_url: https://www.npmjs.com/node-fetch
+  version: 2.6.6
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15978/default_f49d4c116f8ea0155f4d92673b084378bba02760.png
+  detection_source_url: github.com/ss-test-org-asp-org/abp/blob/dev/npm/ng-packs/yarn.lock
+  detection_source: modules/basic-theme/test/Volo.Abp.AspNetCore.Mvc.UI.Theme.Basic.Demo/wwwroot/libs/prismjs/package.json
+  last_updated_by: Volosoft Agent
+  last_updated_on: 2022-03-08 10:51:07.000000000 Z
+  vulnerabilities:
+  - name: node-fetch forwards secure headers to untrusted sites
+    cve_id: CVE-2022-0235
+    cve_url: https://github.com/advisories/GHSA-r683-j2x4-v87g
+    detected_date: Jan 22
+    severity: high
+    first_patched: 2.6.7
+- name: npm-check-updates
+  description: Find newer versions of dependencies than what your package.json or
+    bower.json allows
+  package_url: https://www.npmjs.com/npm-check-updates
+  version: 11.3.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16610/default_50c9ed1615a25628505ab53def64d82450ced26b.png
+  detection_source_url: github.com/ss-test-org-asp-org/abp/blob/dev/npm/package-lock.json
+  detection_source: npm/package.json
+  last_updated_by: Mehmet Erim
+  last_updated_on: 2021-11-15 10:32:28.000000000 Z
+- name: npm-run-all
+  description: A CLI tool to run multiple npm-scripts in parallel or sequential
+  package_url: https://www.npmjs.com/npm-run-all
+  version: 4.1.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15926/default_b45165a5d30e541ab11711a34a78209b3e8ed7fd.png
+  detection_source_url: github.com/ss-test-org-asp-org/abp/blob/dev/npm/ng-packs/yarn.lock
+  detection_source: modules/basic-theme/test/Volo.Abp.AspNetCore.Mvc.UI.Theme.Basic.Demo/wwwroot/libs/prismjs/package.json
+  last_updated_by: Volosoft Agent
+  last_updated_on: 2022-03-08 10:51:07.000000000 Z
+- name: postcss-import
+  description: PostCSS plugin to import CSS files
+  package_url: https://www.npmjs.com/postcss-import
+  version: 14.0.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16086/default_d4e765f8a43dcfd232c8b9ee9732058bc27c727a.png
+  detection_source_url: github.com/ss-test-org-asp-org/abp/blob/dev/npm/ng-packs/yarn.lock
+  detection_source: npm/ng-packs/package.json
+  last_updated_by: mehmet-erim
+  last_updated_on: 2021-11-10 12:51:31.000000000 Z
+- name: postcss-preset-env
+  description: Convert modern CSS into something browsers understand
+  package_url: https://www.npmjs.com/postcss-preset-env
+  version: 6.7.0
+  license: CC0-1.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16373/default_92302d1bbf4c0f67b862869662b4f69002c94aad.png
+  detection_source_url: github.com/ss-test-org-asp-org/abp/blob/dev/npm/ng-packs/yarn.lock
+  detection_source: npm/ng-packs/package.json
+  last_updated_by: muhammedaltug
+  last_updated_on: 2022-01-11 07:58:06.000000000 Z
+- name: postcss-url
+  description: PostCSS plugin to rebase or inline on url
+  package_url: https://www.npmjs.com/postcss-url
+  version: 10.1.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16228/default_380ae3d73e22c7ca1f42b96479bcd0095dabc0d3.png
+  detection_source_url: github.com/ss-test-org-asp-org/abp/blob/dev/npm/ng-packs/yarn.lock
+  detection_source: npm/ng-packs/package.json
+  last_updated_by: mehmet-erim
+  last_updated_on: 2021-11-10 12:51:31.000000000 Z
+- name: prismjs
+  description: Lightweight, robust, elegant syntax highlighting
+  package_url: https://www.npmjs.com/prismjs
+  version: 1.27.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16351/default_4cc3f31b8c64a6268fc123f0965a09d1b11180af.png
+  detection_source_url: github.com/ss-test-org-asp-org/abp/blob/dev/modules/basic-theme/test/Volo.Abp.AspNetCore.Mvc.UI.Theme.Basic.Demo/yarn.lock
+  detection_source: npm/packs/prismjs/package.json
+  last_updated_by: maliming
+  last_updated_on: 2022-01-25 08:22:35.000000000 Z
+- name: prop-types
+  description: Runtime type checking for React props and similar objects
+  package_url: https://www.npmjs.com/prop-types
+  version: 15.8.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15843/default_b71c906aeda030a5e2f1fe40bf12a93be52404ab.png
+  detection_source_url: github.com/ss-test-org-asp-org/abp/blob/dev/templates/app/react-native/package.json
+  detection_source: templates/app/react-native/package.json
+  last_updated_by: mehmet-erim
+  last_updated_on: 2022-01-20 07:59:45.000000000 Z
+- name: pump
+  description: Pipe streams together and close all of them if one of them closes
+  package_url: https://www.npmjs.com/pump
+  version: 2.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16623/default_cc0f40a737548852d2ee666c132c258c9a2c0cad.png
+  detection_source_url: github.com/ss-test-org-asp-org/abp/blob/dev/modules/basic-theme/test/Volo.Abp.AspNetCore.Mvc.UI.Bootstrap.Demo/yarn.lock
+  detection_source: modules/basic-theme/test/Volo.Abp.AspNetCore.Mvc.UI.Theme.Basic.Demo/wwwroot/libs/prismjs/package.json
+  last_updated_by: Volosoft Agent
+  last_updated_on: 2022-03-08 10:51:07.000000000 Z
+- name: react-dom
+  description: React package for working with the DOM
+  package_url: https://www.npmjs.com/react-dom
+  version: 17.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15808/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: github.com/ss-test-org-asp-org/abp/blob/dev/templates/app/react-native/package.json
+  detection_source: templates/app/react-native/package.json
+  last_updated_by: mehmet-erim
+  last_updated_on: 2022-01-20 07:59:45.000000000 Z
+- name: react-native
+  description: A framework for building native apps using React
+  package_url: https://www.npmjs.com/react-native
+  version: 0.64.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16064/default_5a461d436012a0c4024534aaba303dcdb0297d24.png
+  detection_source_url: github.com/ss-test-org-asp-org/abp/blob/dev/templates/app/react-native/package.json
+  detection_source: templates/app/react-native/package.json
+  last_updated_by: mehmet-erim
+  last_updated_on: 2022-01-20 07:59:45.000000000 Z
+- name: react-native-svg
+  description: SVG library for react-native
+  package_url: https://www.npmjs.com/react-native-svg
+  version: 12.1.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18169/default_4ad5899bf99118763f1e1098ab583aaff0340ee8.png
+  detection_source_url: github.com/ss-test-org-asp-org/abp/blob/dev/templates/app/react-native/package.json
+  detection_source: templates/app/react-native/package.json
+  last_updated_by: mehmet-erim
+  last_updated_on: 2022-01-20 07:59:45.000000000 Z
+- name: react-native-web
+  description: React Native for Web
+  package_url: https://www.npmjs.com/react-native-web
+  version: 0.17.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17683/default_894a45ad01fa93ac472db719cb1ef1b89f2924f0.png
+  detection_source_url: github.com/ss-test-org-asp-org/abp/blob/dev/templates/app/react-native/package.json
+  detection_source: templates/app/react-native/package.json
+  last_updated_by: mehmet-erim
+  last_updated_on: 2022-01-20 07:59:45.000000000 Z
+- name: react-redux
+  description: Official React bindings for Redux
+  package_url: https://www.npmjs.com/react-redux
+  version: 7.2.6
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15984/default_f49d4c116f8ea0155f4d92673b084378bba02760.png
+  detection_source_url: github.com/ss-test-org-asp-org/abp/blob/dev/templates/app/react-native/package.json
+  detection_source: templates/app/react-native/package.json
+  last_updated_by: mehmet-erim
+  last_updated_on: 2022-01-20 07:59:45.000000000 Z
+- name: semver
+  description: The semantic version parser used by npm
+  package_url: https://www.npmjs.com/semver
+  version: 5.7.0
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18809/default_dad3dc9dde4b82dc2a7bd32aa091165887abe57b.png
+  detection_source_url: github.com/ss-test-org-asp-org/abp/blob/dev/modules/basic-theme/test/Volo.Abp.AspNetCore.Mvc.UI.Bootstrap.Demo/yarn.lock
+  detection_source: npm/ng-packs/scripts/package.json
+  last_updated_by: Mehmet Erim
+  last_updated_on: 2021-09-21 11:19:34.000000000 Z
+  vulnerabilities:
+  - name: semver vulnerable to Regular Expression Denial of Service
+    cve_id: CVE-2022-25883
+    cve_url: https://github.com/advisories/GHSA-c2qf-rxjj-qqgw
+    detected_date: Jun 23
+    severity: moderate
+    first_patched: 5.7.2
+- name: should
+  description: Test framework agnostic BDD-style assertions
+  package_url: https://www.npmjs.com/should
+  version: 13.2.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15871/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
+  detection_source_url: github.com/ss-test-org-asp-org/abp/blob/dev/modules/basic-theme/test/Volo.Abp.AspNetCore.Mvc.UI.Bootstrap.Demo/wwwroot/libs/highlight.js/package.json
+  detection_source: modules/basic-theme/test/Volo.Abp.AspNetCore.Mvc.UI.Bootstrap.Demo/wwwroot/libs/highlight.js/package.json
+  last_updated_by: Yunus Emre Kalkan
+  last_updated_on: 2018-12-17 07:35:34.000000000 Z
+- name: simple-git
+  description: Simple GIT interface for node.js
+  package_url: https://www.npmjs.com/simple-git
+  version: 1.107.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16567/default_d6ff16957d0b119d673d5ec0eb21b08d8d5008f4.png
+  detection_source_url: github.com/ss-test-org-asp-org/abp/blob/dev/modules/basic-theme/test/Volo.Abp.AspNetCore.Mvc.UI.Theme.Basic.Demo/wwwroot/libs/prismjs/package.json
+  detection_source: modules/basic-theme/test/Volo.Abp.AspNetCore.Mvc.UI.Theme.Basic.Demo/wwwroot/libs/prismjs/package.json
+  last_updated_by: Volosoft Agent
+  last_updated_on: 2022-03-08 10:51:07.000000000 Z
+  vulnerabilities:
+  - name: Remote code execution in simple-git
+    cve_id: CVE-2022-25860
+    cve_url: https://github.com/advisories/GHSA-9w5j-4mwv-2wj8
+    detected_date: Jan 27
+    severity: critical
+    first_patched: 3.16.0
+  - name: simple-git vulnerable to Remote Code Execution when enabling the ext transport
+      protocol
+    cve_id: CVE-2022-25912
+    cve_url: https://github.com/advisories/GHSA-9p95-fxvg-qgq2
+    detected_date: Dec 8
+    severity: high
+    first_patched: 3.15.0
+  - name: Command injection in simple-git
+    cve_id: CVE-2022-24066
+    cve_url: https://github.com/advisories/GHSA-28xr-mwxg-3qc8
+    detected_date: Apr 13
+    severity: high
+    first_patched: 3.5.0
+  - name: Command injection in simple-git
+    cve_id: CVE-2022-24433
+    cve_url: https://github.com/advisories/GHSA-3f95-r44v-8mrg
+    detected_date: Mar 18
+    severity: high
+    first_patched: 3.3.0
+- name: slugify
+  description: Slugifies a String
+  package_url: https://www.npmjs.com/slugify
+  version: 1.6.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17389/default_33c3173e7d0e91f7cea0eab9883ca83b157bd4a5.png
+  detection_source_url: github.com/ss-test-org-asp-org/abp/blob/dev/modules/cms-kit/host/Volo.CmsKit.Web.Unified/yarn.lock
+  detection_source: npm/packs/slugify/package.json
+  last_updated_by: maliming
+  last_updated_on: 2022-01-25 08:22:35.000000000 Z
+- name: sweetalert2
+  description: A beautiful
+  package_url: https://www.npmjs.com/sweetalert2
+  version: 11.4.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18093/image.png
+  detection_source_url: github.com/ss-test-org-asp-org/abp/blob/dev/modules/basic-theme/test/Volo.Abp.AspNetCore.Mvc.UI.Bootstrap.Demo/yarn.lock
+  detection_source: npm/packs/sweetalert2/package.json
+  last_updated_by: maliming
+  last_updated_on: 2022-01-25 08:22:35.000000000 Z
+- name: ts-jest
+  description: A preprocessor with source maps support to help use TypeScript with
+    Jest
+  package_url: https://www.npmjs.com/ts-jest
+  version: 26.5.6
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15864/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
+  detection_source_url: github.com/ss-test-org-asp-org/abp/blob/dev/npm/ng-packs/packages/schematics/yarn.lock
+  detection_source: npm/ng-packs/package.json
+  last_updated_by: muhammedaltug
+  last_updated_on: 2022-01-11 07:58:06.000000000 Z
+- name: ts-node
+  description: TypeScript execution environment and REPL for node.js
+  package_url: https://www.npmjs.com/ts-node
+  version: 8.10.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15830/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
+  detection_source_url: github.com/ss-test-org-asp-org/abp/blob/dev/npm/ng-packs/scripts/yarn.lock
+  detection_source: modules/cms-kit/angular/package.json
+  last_updated_by: mehmet-erim
+  last_updated_on: 2021-10-22 08:31:19.000000000 Z
+- name: tsconfig-paths
+  description: Load node modules according to tsconfig paths
+  package_url: https://www.npmjs.com/tsconfig-paths
+  version: 3.10.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16810/default_55e3ea76a7929df1b71c5ea0c9b4130cc87323a4.png
+  detection_source_url: github.com/ss-test-org-asp-org/abp/blob/dev/npm/ng-packs/scripts/yarn.lock
+  detection_source: npm/ng-packs/scripts/package.json
+  last_updated_by: Mehmet Erim
+  last_updated_on: 2021-09-21 11:19:34.000000000 Z
+- name: tsickle
+  description: Transpile TypeScript code to JavaScript with Closure annotations
+  package_url: https://www.npmjs.com/tsickle
+  version: 0.39.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16428/default_5ffcf8d02a3454bd25d27d236025c6d078c3b672.png
+  detection_source_url: github.com/ss-test-org-asp-org/abp/blob/dev/npm/ng-packs/yarn.lock
+  detection_source: npm/ng-packs/package.json
+  last_updated_by: mehmet-erim
+  last_updated_on: 2020-09-22 09:53:30.000000000 Z
+- name: tslib
+  description: Runtime library for TypeScript helper functions
+  package_url: https://www.npmjs.com/tslib
+  version: 1.14.1
+  license: 0BSD
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15853/default_97d4687bd07ff1bb963fd566c84e7cbf7c73bbee.png
+  detection_source_url: github.com/ss-test-org-asp-org/abp/blob/dev/npm/ng-packs/packages/schematics/yarn.lock
+  detection_source: modules/cms-kit/angular/package.json
+  last_updated_by: mehmet-erim
+  last_updated_on: 2021-10-22 08:31:19.000000000 Z
+- name: vee-validate
+  description: Template Based Validation Framework for Vue.js
+  package_url: https://www.npmjs.com/vee-validate
+  version: 3.4.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18263/default_e883f2ab27e3b57d1e2e1d1474b09e7351e11b54.png
+  detection_source_url: github.com/ss-test-org-asp-org/abp/blob/dev/npm/packs/vee-validate/package.json
+  detection_source: npm/packs/vee-validate/package.json
+  last_updated_by: Galip Tolga Erdem
+  last_updated_on: 2020-11-11 08:08:25.000000000 Z
+- name: vue
+  description: Vue
+  package_url: https://www.npmjs.com/vue
+  version: 2.6.12
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15844/default_b71c906aeda030a5e2f1fe40bf12a93be52404ab.png
+  detection_source_url: github.com/ss-test-org-asp-org/abp/blob/dev/npm/packs/vue/package.json
+  detection_source: npm/packs/vue/package.json
+  last_updated_by: Galip Tolga Erdem
+  last_updated_on: 2020-11-10 14:06:38.000000000 Z
+- name: yargs
+  description: Yargs the modern, pirate-themed, successor to optimist
+  package_url: https://www.npmjs.com/yargs
+  version: 7.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15887/default_3af1504b6f77c55205ba630fe08c472f43b95f6e.png
+  detection_source_url: github.com/ss-test-org-asp-org/abp/blob/dev/modules/basic-theme/test/Volo.Abp.AspNetCore.Mvc.UI.Bootstrap.Demo/yarn.lock
+  detection_source: modules/basic-theme/test/Volo.Abp.AspNetCore.Mvc.UI.Theme.Basic.Demo/wwwroot/libs/prismjs/package.json
+  last_updated_by: Volosoft Agent
+  last_updated_on: 2022-03-08 10:51:07.000000000 Z
+- name: zone.js
+  description: Zones for JavaScript
+  package_url: https://www.npmjs.com/zone.js
+  version: 0.11.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15915/default_59a1b5716eefa3750c20936c3d53ff13a6390ee1.png
+  detection_source_url: github.com/ss-test-org-asp-org/abp/blob/dev/npm/ng-packs/yarn.lock
+  detection_source: modules/cms-kit/angular/package.json
+  last_updated_by: mehmet-erim
+  last_updated_on: 2021-10-22 08:31:19.000000000 Z
+- name: CommonMark.NET
+  description: ".NET library for converting Markdown documents to HTML according to
+    the CommonMark specification"
+  package_url: https://www.nuget.org/CommonMark.NET
+  version: 0.15.1
+  license: Other
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13666/default_992e2033af209ce2fc13d6e7621d9649c6f4b3b2.png
+  detection_source_url: github.com/ss-test-org-asp-org/abp/blob/dev/modules/docs/src/Volo.Docs.Admin.Web/Volo.Docs.Admin.Web.csproj
+  detection_source: modules/docs/src/Volo.Docs.Admin.Web/Volo.Docs.Admin.Web.csproj
+  last_updated_by: Alper Ebicoglu
+  last_updated_on: 2020-06-18 21:52:03.000000000 Z
+- name: Hangfire.SqlServer
+  description: SQL Server 2008+
+  package_url: https://www.nuget.org/Hangfire.SqlServer
+  version: '1.7'
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13766/default_38064b97bfe17b99e14fb334e84122134ad69688.png
+  detection_source_url: github.com/ss-test-org-asp-org/abp/blob/dev/modules/background-jobs/app/Volo.Abp.BackgroundJobs.DemoApp.HangFire/Volo.Abp.BackgroundJobs.DemoApp.HangFire.csproj
+  detection_source: modules/background-jobs/app/Volo.Abp.BackgroundJobs.DemoApp.HangFire/Volo.Abp.BackgroundJobs.DemoApp.HangFire.csproj
+  last_updated_by: maliming
+  last_updated_on: 2020-12-09 08:16:57.000000000 Z
+- name: HtmlAgilityPack
+  description: This is an agile HTML parser that builds a read/write DOM and supports
+    plain XPATH or XSLT
+  package_url: https://www.nuget.org/HtmlAgilityPack
+  version: 1.11.36
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12918/default_e43fb8cd51d87352a1197706afa527de5c3baecd.png
+  detection_source_url: github.com/ss-test-org-asp-org/abp/blob/dev/templates/app/aspnet-core/test/MyCompanyName.MyProjectName.Web.Tests/MyCompanyName.MyProjectName.Web.Tests.csproj
+  detection_source: templates/app/aspnet-core/test/MyCompanyName.MyProjectName.Web.Tests/MyCompanyName.MyProjectName.Web.Tests.csproj
+  last_updated_by: liangshiwei
+  last_updated_on: 2021-09-20 12:55:17.000000000 Z
+- name: HtmlSanitizer
+  description: Cleans HTML from constructs that can be used for cross site scripting
+  package_url: https://www.nuget.org/HtmlSanitizer
+  version: 5.0.331
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/14219/default_db0392ac0437007314492dc2fcd84e85a9039eb4.png
+  detection_source_url: github.com/ss-test-org-asp-org/abp/blob/dev/modules/cms-kit/src/Volo.CmsKit.Public.Web/Volo.CmsKit.Public.Web.csproj
+  detection_source: modules/cms-kit/src/Volo.CmsKit.Public.Web/Volo.CmsKit.Public.Web.csproj
+  last_updated_by: Yunus Emre Kalkan
+  last_updated_on: 2021-12-01 08:18:19.000000000 Z
+  vulnerabilities:
+  - name: HtmlSanitizer vulnerable to Cross-site Scripting in Foreign Content
+    cve_id: CVE-2023-44390
+    cve_url: https://github.com/advisories/GHSA-43cp-6p3q-2pc4
+    detected_date: Oct 5
+    severity: moderate
+    first_patched: 8.0.723
+  - name: XSS in HtmlSanitizer
+    cve_id: CVE-2020-26293
+    cve_url: https://github.com/advisories/GHSA-8j9v-h2vp-2hhv
+    detected_date: Aug 22
+    severity: low
+    first_patched: 5.0.372
+- name: IdentityModel
+  description: OpenID Connect &amp; OAuth 2.0 client library
+  package_url: https://www.nuget.org/IdentityModel
+  version: 5.1.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13037/default_1b8be57b16f1f491c0e5f67e5d1021f4df68ea30.png
+  detection_source_url: github.com/ss-test-org-asp-org/abp/blob/dev/modules/cms-kit/host/Volo.CmsKit.HttpApi.Host/Volo.CmsKit.HttpApi.Host.csproj
+  detection_source: modules/cms-kit/host/Volo.CmsKit.HttpApi.Host/Volo.CmsKit.HttpApi.Host.csproj
+  last_updated_by: liangshiwei
+  last_updated_on: 2021-09-20 09:02:44.000000000 Z
+- name: IdentityServer4
+  description: OpenID Connect and OAuth 2.0 Framework for ASP.NET Core
+  package_url: https://www.nuget.org/IdentityServer4
+  version: 4.1.2
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13183/default_18a92235046d8c8db548cd22b87cf5792dc31759.png
+  detection_source_url: github.com/ss-test-org-asp-org/abp/blob/dev/modules/identityserver/src/Volo.Abp.IdentityServer.Domain/Volo.Abp.IdentityServer.Domain.csproj
+  detection_source: modules/identityserver/src/Volo.Abp.IdentityServer.Domain/Volo.Abp.IdentityServer.Domain.csproj
+  last_updated_by: liangshiwei
+  last_updated_on: 2021-09-20 09:02:44.000000000 Z
+- name: IdentityServer4.AspNetIdentity
+  description: ASP.NET Core Identity Integration for IdentityServer4
+  package_url: https://www.nuget.org/IdentityServer4.AspNetIdentity
+  version: 4.1.1
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/14133/default_6f9cfa92c648a46276b9e4377ed49e6afc16a2a4.png
+  detection_source_url: github.com/ss-test-org-asp-org/abp/blob/dev/modules/identityserver/src/Volo.Abp.IdentityServer.Domain/Volo.Abp.IdentityServer.Domain.csproj
+  detection_source: modules/identityserver/src/Volo.Abp.IdentityServer.Domain/Volo.Abp.IdentityServer.Domain.csproj
+  last_updated_by: liangshiwei
+  last_updated_on: 2021-09-20 09:02:44.000000000 Z
+- name: Microsoft.AspNetCore.Authentication.JwtBearer
+  description: ASP.NET Core middleware that enables an application to receive an OpenID
+    Connect bearer token
+  package_url: https://www.nuget.org/Microsoft.AspNetCore.Authentication.JwtBearer
+  version: 6.0.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12968/default_dd10728859f7e363ef13345d855b2daba48cace4.png
+  detection_source_url: github.com/ss-test-org-asp-org/abp/blob/dev/templates/app/aspnet-core/src/MyCompanyName.MyProjectName.HttpApi.Host/MyCompanyName.MyProjectName.HttpApi.Host.csproj
+  detection_source: framework/src/Volo.Abp.AspNetCore.Authentication.JwtBearer/Volo.Abp.AspNetCore.Authentication.JwtBearer.csproj
+  last_updated_by: maliming
+  last_updated_on: 2020-11-17 09:19:11.000000000 Z
+- name: Microsoft.AspNetCore.Authentication.OpenIdConnect
+  description: ASP.NET Core middleware that enables an application to support the
+    OpenID Connect authentication workflow
+  package_url: https://www.nuget.org/Microsoft.AspNetCore.Authentication.OpenIdConnect
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13385/default_97f005023342604c2e0668a9597b9eb6971b1d06.png
+  detection_source: framework/src/Volo.Abp.AspNetCore.Authentication.OpenIdConnect/Volo.Abp.AspNetCore.Authentication.OpenIdConnect.csproj
+  last_updated_by: maliming
+  last_updated_on: 2020-11-17 09:19:11.000000000 Z
+- name: Microsoft.AspNetCore.Components
+  description: Components feature for ASP.NET Core
+  package_url: https://www.nuget.org/Microsoft.AspNetCore.Components
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13166/default_b4059c3863f54504d1a911991b5fe93c60e9e43e.png
+  detection_source: framework/src/Volo.Abp.AspNetCore.Components/Volo.Abp.AspNetCore.Components.csproj
+  last_updated_by: maliming
+  last_updated_on: 2020-11-17 09:19:11.000000000 Z
+- name: Microsoft.AspNetCore.Components.Web
+  description: Support for rendering ASP.NET Core components for browsers
+  package_url: https://www.nuget.org/Microsoft.AspNetCore.Components.Web
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13128/default_59c6e81d6f4034b10a10bd52ec71c48c8d66e4eb.png
+  detection_source: framework/src/Volo.Abp.AspNetCore.Components.Web/Volo.Abp.AspNetCore.Components.Web.csproj
+  last_updated_by: Mladen Macanovic
+  last_updated_on: 2021-01-13 13:05:08.000000000 Z
+- name: Microsoft.AspNetCore.Mvc.NewtonsoftJson
+  description: ASP.NET Core MVC features that use Newtonsoft.Json
+  package_url: https://www.nuget.org/Microsoft.AspNetCore.Mvc.NewtonsoftJson
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13258/default_d2db5a200c4fe2d08cbdb2174cc230708973870b.png
+  detection_source: framework/src/Volo.Abp.AspNetCore.Mvc/Volo.Abp.AspNetCore.Mvc.csproj
+  last_updated_by: maliming
+  last_updated_on: 2021-03-28 07:24:58.000000000 Z
+- name: Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation
+  description: Runtime compilation support for Razor views and Razor Pages in ASP.NET
+    Core MVC
+  package_url: https://www.nuget.org/Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/14475/default_e2210dba7a410b29af824a406b1ff3bc92763715.png
+  detection_source: framework/src/Volo.Abp.AspNetCore.Mvc/Volo.Abp.AspNetCore.Mvc.csproj
+  last_updated_by: maliming
+  last_updated_on: 2021-03-28 07:24:58.000000000 Z
+- name: Microsoft.AspNetCore.Mvc.Versioning
+  description: A service API versioning library for Microsoft ASP.NET Core
+  package_url: https://www.nuget.org/Microsoft.AspNetCore.Mvc.Versioning
+  version: 5.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13333/default_9a849f196ca7930b27f663ae8f15c937ea1b49e5.png
+  detection_source_url: github.com/ss-test-org-asp-org/abp/blob/dev/framework/src/Volo.Abp.AspNetCore.Mvc/Volo.Abp.AspNetCore.Mvc.csproj
+  detection_source: framework/src/Volo.Abp.AspNetCore.Mvc/Volo.Abp.AspNetCore.Mvc.csproj
+  last_updated_by: maliming
+  last_updated_on: 2021-03-28 07:24:58.000000000 Z
+- name: Microsoft.AspNetCore.TestHost
+  description: ASP.NET Core web server for writing and running tests
+  package_url: https://www.nuget.org/Microsoft.AspNetCore.TestHost
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13268/default_3b9faa77d26eef0a944d4dab8d562db23059cb72.png
+  detection_source: framework/src/Volo.Abp.AspNetCore.TestBase/Volo.Abp.AspNetCore.TestBase.csproj
+  last_updated_by: maliming
+  last_updated_on: 2020-11-17 09:19:11.000000000 Z
+- name: Microsoft.AspNetCore.WebUtilities
+  description: ASP.NET Core utilities, such as for working with forms, multipart messages,
+    and query strings
+  package_url: https://www.nuget.org/Microsoft.AspNetCore.WebUtilities
+  version: 2.2.0
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13178/default_4c5fe3fa4737a75e9929d1bbae64d5639710e3e4.png
+  detection_source_url: github.com/ss-test-org-asp-org/abp/blob/dev/framework/src/Volo.Abp.AspNetCore.Components.WebAssembly/Volo.Abp.AspNetCore.Components.WebAssembly.csproj
+  detection_source: framework/src/Volo.Abp.AspNetCore.Components.WebAssembly/Volo.Abp.AspNetCore.Components.WebAssembly.csproj
+  last_updated_by: Halil İbrahim Kalkan
+  last_updated_on: 2021-03-09 07:51:03.000000000 Z
+- name: Microsoft.Data.Sqlite
+  description: SQLite implementation of the System.Data.Common provider model
+  package_url: https://www.nuget.org/Microsoft.Data.Sqlite
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13157/default_44f069d4a745c5c788fc8fe5128bd24cacde1aff.png
+  detection_source: modules/audit-logging/test/Volo.Abp.AuditLogging.EntityFrameworkCore.Tests/Volo.Abp.AuditLogging.EntityFrameworkCore.Tests.csproj
+  last_updated_by: maliming
+  last_updated_on: 2020-11-17 09:19:11.000000000 Z
+- name: Microsoft.EntityFrameworkCore
+  description: Entity Framework Core is a lightweight and extensible version of the
+    popular Entity Framework data access technology
+  package_url: https://www.nuget.org/Microsoft.EntityFrameworkCore
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12852/default_ccf90b566c21ad9eaa59733f297e535ea39fb3b4.png
+  detection_source: framework/src/Volo.Abp.EntityFrameworkCore/Volo.Abp.EntityFrameworkCore.csproj
+  last_updated_by: maliming
+  last_updated_on: 2021-07-30 06:36:31.000000000 Z
+- name: Microsoft.EntityFrameworkCore.InMemory
+  description: In-memory database provider for Entity Framework Core
+  package_url: https://www.nuget.org/Microsoft.EntityFrameworkCore.InMemory
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13150/default_81ac985912284073db895b0d26abf3657532a164.png
+  detection_source: modules/permission-management/test/Volo.Abp.PermissionManagement.Domain.Tests/Volo.Abp.PermissionManagement.Domain.Tests.csproj
+  last_updated_by: maliming
+  last_updated_on: 2021-07-30 06:36:31.000000000 Z
+- name: Microsoft.EntityFrameworkCore.Proxies
+  description: Lazy-loading proxies for EF Core
+  package_url: https://www.nuget.org/Microsoft.EntityFrameworkCore.Proxies
+  version: 6.0.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13429/default_b5cc6dac756daf8a76f449b0db2d2933859829df.png
+  detection_source_url: github.com/ss-test-org-asp-org/abp/blob/dev/templates/module/aspnet-core/test/MyCompanyName.MyProjectName.EntityFrameworkCore.Tests/MyCompanyName.MyProjectName.EntityFrameworkCore.Tests.csproj
+  detection_source: modules/account/test/Volo.Abp.Account.Application.Tests/Volo.Abp.Account.Application.Tests.csproj
+  last_updated_by: maliming
+  last_updated_on: 2021-07-30 06:36:31.000000000 Z
+- name: Microsoft.EntityFrameworkCore.Relational
+  description: Shared Entity Framework Core components for relational database providers
+  package_url: https://www.nuget.org/Microsoft.EntityFrameworkCore.Relational
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12914/default_cd4457378b2b3dee674f43707df49edfbc5c04e5.png
+  detection_source: framework/src/Volo.Abp.EntityFrameworkCore/Volo.Abp.EntityFrameworkCore.csproj
+  last_updated_by: maliming
+  last_updated_on: 2021-07-30 06:36:31.000000000 Z
+- name: Microsoft.EntityFrameworkCore.SqlServer
+  description: Microsoft SQL Server database provider for Entity Framework Core
+  package_url: https://www.nuget.org/Microsoft.EntityFrameworkCore.SqlServer
+  version: 5.0.1
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12891/default_4e8402857d2ce7356903ee7422d9b4a0f23cc137.png
+  detection_source_url: github.com/ss-test-org-asp-org/abp/blob/dev/test/AbpPerfTest/AbpPerfTest.WithoutAbp/AbpPerfTest.WithoutAbp.csproj
+  detection_source: framework/src/Volo.Abp.EntityFrameworkCore.SqlServer/Volo.Abp.EntityFrameworkCore.SqlServer.csproj
+  last_updated_by: maliming
+  last_updated_on: 2021-07-30 06:36:31.000000000 Z
+- name: Microsoft.EntityFrameworkCore.Sqlite
+  description: SQLite database provider for Entity Framework Core
+  package_url: https://www.nuget.org/Microsoft.EntityFrameworkCore.Sqlite
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13077/default_0af6f5844ebd9062a9a4895d909753dc8447f2f3.png
+  detection_source: framework/src/Volo.Abp.EntityFrameworkCore.Sqlite/Volo.Abp.EntityFrameworkCore.Sqlite.csproj
+  last_updated_by: maliming
+  last_updated_on: 2021-07-30 06:36:31.000000000 Z
+- name: Microsoft.EntityFrameworkCore.Tools
+  description: Entity Framework Core Tools for the NuGet Package Manager Console in
+    Visual Studio
+  package_url: https://www.nuget.org/Microsoft.EntityFrameworkCore.Tools
+  version: 6.0.1
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13138/default_a057bdad489be3cb053d372a68695da4ac94962d.png
+  detection_source_url: github.com/ss-test-org-asp-org/abp/blob/dev/templates/app-nolayers/aspnet-core/MyCompanyName.MyProjectName.Blazor.Server/MyCompanyName.MyProjectName.Blazor.Server.csproj
+  detection_source: modules/background-jobs/app/Volo.Abp.BackgroundJobs.DemoApp/Volo.Abp.BackgroundJobs.DemoApp.csproj
+  last_updated_by: maliming
+  last_updated_on: 2021-07-30 06:36:31.000000000 Z
+- name: Microsoft.Extensions.Configuration.UserSecrets
+  description: User secrets configuration provider implementation for Microsoft.Extensions.Configuration
+  package_url: https://www.nuget.org/Microsoft.Extensions.Configuration.UserSecrets
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13212/default_18a92235046d8c8db548cd22b87cf5792dc31759.png
+  detection_source: framework/test/Volo.Abp.BlobStoring.Aliyun.Tests/Volo.Abp.BlobStoring.Aliyun.Tests.csproj
+  last_updated_by: maliming
+  last_updated_on: 2020-11-17 09:19:11.000000000 Z
+- name: Microsoft.Extensions.FileProviders.Embedded
+  description: File provider for files in embedded resources for Microsoft.Extensions.FileProviders
+  package_url: https://www.nuget.org/Microsoft.Extensions.FileProviders.Embedded
+  version: 6.0.1
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13052/default_0af6f5844ebd9062a9a4895d909753dc8447f2f3.png
+  detection_source_url: github.com/ss-test-org-asp-org/abp/blob/dev/templates/app-nolayers/aspnet-core/MyCompanyName.MyProjectName.Blazor.Server.Mongo/MyCompanyName.MyProjectName.Blazor.Server.Mongo.csproj
+  detection_source: framework/src/Volo.Abp.AspNetCore.Mvc.UI.Theme.Shared.Demo/Volo.Abp.AspNetCore.Mvc.UI.Theme.Shared.Demo.csproj
+  last_updated_by: maliming
+  last_updated_on: 2020-11-17 09:19:11.000000000 Z
+- name: Microsoft.Extensions.Hosting
+  description: ".NET Core hosting and startup infrastructures for applications"
+  package_url: https://www.nuget.org/Microsoft.Extensions.Hosting
+  version: 6.0.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13013/default_dd10728859f7e363ef13345d855b2daba48cace4.png
+  detection_source_url: github.com/ss-test-org-asp-org/abp/blob/dev/templates/app/aspnet-core/test/MyCompanyName.MyProjectName.HttpApi.Client.ConsoleTestApp/MyCompanyName.MyProjectName.HttpApi.Client.ConsoleTestApp.csproj
+  detection_source: framework/test/SimpleConsoleDemo/SimpleConsoleDemo.csproj
+  last_updated_by: maliming
+  last_updated_on: 2020-11-17 09:19:11.000000000 Z
+- name: Microsoft.VisualStudio.Web.CodeGeneration.Design
+  description: Code Generation tool for ASP.NET Core
+  package_url: https://www.nuget.org/Microsoft.VisualStudio.Web.CodeGeneration.Design
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13477/default_eb78542773998d1500f13778aa04738ef49376bd.png
+  detection_source: modules/basic-theme/test/Volo.Abp.AspNetCore.Mvc.UI.Bootstrap.Demo/Volo.Abp.AspNetCore.Mvc.UI.Bootstrap.Demo.csproj
+  last_updated_by: maliming
+  last_updated_on: 2021-09-15 04:23:56.000000000 Z
+- name: NSubstitute
+  description: NSubstitute is a friendly substitute for .NET mocking libraries
+  package_url: https://www.nuget.org/NSubstitute
+  version: 4.2.2
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13290/default_f1d03070d16050375185746648c3b260664eace4.png
+  detection_source_url: github.com/ss-test-org-asp-org/abp/blob/dev/modules/basic-theme/test/Volo.Abp.AspNetCore.Mvc.UI.Bootstrap.Demo.Tests/Volo.Abp.AspNetCore.Mvc.UI.Bootstrap.Demo.Tests.csproj
+  detection_source: framework/test/AbpTestBase/AbpTestBase.csproj
+  last_updated_by: maliming
+  last_updated_on: 2020-11-17 09:19:11.000000000 Z
+- name: NUglify
+  description: NUglify provides minify and compression methods for CSS
+  package_url: https://www.nuget.org/NUglify
+  version: 1.16.0
+  license: Other
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/14144/default_c57c791b1a882ec758f81ccf6ba7b6c192eaf91d.png
+  detection_source_url: github.com/ss-test-org-asp-org/abp/blob/dev/framework/src/Volo.Abp.AspNetCore.Mvc.UI/Volo.Abp.AspNetCore.Mvc.UI.csproj
+  detection_source: framework/src/Volo.Abp.AspNetCore.Mvc.UI/Volo.Abp.AspNetCore.Mvc.UI.csproj
+  last_updated_by: liangshiwei
+  last_updated_on: 2021-09-20 06:27:52.000000000 Z
+- name: Newtonsoft.Json
+  description: Json.NET is a popular high-performance JSON framework for .NET
+  package_url: https://www.nuget.org/Newtonsoft.Json
+  version: 13.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/nuget/image.png
+  detection_source_url: github.com/ss-test-org-asp-org/abp/blob/dev/studio/src/Volo.Abp.Studio.Domain.CommonServices/Volo.Abp.Studio.Domain.CommonServices.csproj
+  detection_source: studio/src/Volo.Abp.Studio.Domain.CommonServices/Volo.Abp.Studio.Domain.CommonServices.csproj
+  last_updated_by: Yunus Emre Kalkan
+  last_updated_on: 2021-08-27 08:52:10.000000000 Z
+- name: Oracle.EntityFrameworkCore
+  description: Oracle Data Provider for .NET
+  package_url: https://www.nuget.org/Oracle.EntityFrameworkCore
+  version: 6.21.5
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/15348/default_fdc8bfe39f37c8a50a1abe54da197f1048ed8657.png
+  detection_source_url: github.com/ss-test-org-asp-org/abp/blob/dev/framework/src/Volo.Abp.EntityFrameworkCore.Oracle/Volo.Abp.EntityFrameworkCore.Oracle.csproj
+  detection_source: framework/src/Volo.Abp.EntityFrameworkCore.Oracle/Volo.Abp.EntityFrameworkCore.Oracle.csproj
+  last_updated_by: Alper Ebicoglu
+  last_updated_on: 2022-01-07 09:31:53.000000000 Z
+- name: Pomelo.EntityFrameworkCore.MySql
+  description: MySQL provider for Entity Framework Core
+  package_url: https://www.nuget.org/Pomelo.EntityFrameworkCore.MySql
+  version: 6.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13125/default_a057bdad489be3cb053d372a68695da4ac94962d.png
+  detection_source_url: github.com/ss-test-org-asp-org/abp/blob/dev/framework/src/Volo.Abp.EntityFrameworkCore.MySQL/Volo.Abp.EntityFrameworkCore.MySQL.csproj
+  detection_source: framework/src/Volo.Abp.EntityFrameworkCore.MySQL/Volo.Abp.EntityFrameworkCore.MySQL.csproj
+  last_updated_by: liangshiwei
+  last_updated_on: 2021-11-15 09:07:51.000000000 Z
+- name: Scriban
+  description: Scriban is a fast
+  package_url: https://www.nuget.org/Scriban
+  version: 4.0.1
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/14324/default_075e7fa42926908fa32bace002d5b152961eb0c4.png
+  detection_source_url: github.com/ss-test-org-asp-org/abp/blob/dev/modules/docs/src/Volo.Docs.Web/Volo.Docs.Web.csproj
+  detection_source: modules/docs/src/Volo.Docs.Web/Volo.Docs.Web.csproj
+  last_updated_by: liangshiwei
+  last_updated_on: 2021-09-20 09:02:44.000000000 Z
+- name: Serilog.AspNetCore
+  description: Serilog support for ASP.NET Core logging
+  package_url: https://www.nuget.org/Serilog.AspNetCore
+  version: 4.1.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13194/default_18a92235046d8c8db548cd22b87cf5792dc31759.png
+  detection_source_url: github.com/ss-test-org-asp-org/abp/blob/dev/framework/test/Volo.Abp.AspNetCore.Serilog.Tests/Volo.Abp.AspNetCore.Serilog.Tests.csproj
+  detection_source: framework/test/Volo.Abp.AspNetCore.Serilog.Tests/Volo.Abp.AspNetCore.Serilog.Tests.csproj
+  last_updated_by: liangshiwei
+  last_updated_on: 2021-03-29 08:02:23.000000000 Z
+- name: Serilog.Extensions.Logging
+  description: Low-level Serilog provider for Microsoft.Extensions.Logging
+  package_url: https://www.nuget.org/Serilog.Extensions.Logging
+  version: 3.0.1
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13099/default_9a42ff760d96a634e61dad6d7a7d76e2d1506229.png
+  detection_source_url: github.com/ss-test-org-asp-org/abp/blob/dev/modules/blob-storing-database/host/BlobStoring.Database.Host.ConsoleApp/src/BlobStoring.Database.Host.ConsoleApp.ConsoleApp/BlobStoring.Database.Host.ConsoleApp.ConsoleApp.csproj
+  detection_source: modules/blob-storing-database/host/BlobStoring.Database.Host.ConsoleApp/src/BlobStoring.Database.Host.ConsoleApp.ConsoleApp/BlobStoring.Database.Host.ConsoleApp.ConsoleApp.csproj
+  last_updated_by: liangshiwei
+  last_updated_on: 2021-09-20 09:02:44.000000000 Z
+- name: Serilog.Sinks.Async
+  description: Asynchronous sink wrapper for Serilog
+  package_url: https://www.nuget.org/Serilog.Sinks.Async
+  version: 1.5.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13775/default_38064b97bfe17b99e14fb334e84122134ad69688.png
+  detection_source_url: github.com/ss-test-org-asp-org/abp/blob/dev/modules/basic-theme/test/Volo.Abp.AspNetCore.Mvc.UI.Theme.Basic.Demo/Volo.Abp.AspNetCore.Mvc.UI.Theme.Basic.Demo.csproj
+  detection_source: modules/basic-theme/test/Volo.Abp.AspNetCore.Mvc.UI.Theme.Basic.Demo/Volo.Abp.AspNetCore.Mvc.UI.Theme.Basic.Demo.csproj
+  last_updated_by: liangshiwei
+  last_updated_on: 2021-09-20 06:27:52.000000000 Z
+- name: Serilog.Sinks.Console
+  description: A Serilog sink that writes log events to the console/terminal
+  package_url: https://www.nuget.org/Serilog.Sinks.Console
+  version: 4.0.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13071/default_0af6f5844ebd9062a9a4895d909753dc8447f2f3.png
+  detection_source_url: github.com/ss-test-org-asp-org/abp/blob/dev/modules/blob-storing-database/host/BlobStoring.Database.Host.ConsoleApp/src/BlobStoring.Database.Host.ConsoleApp.ConsoleApp/BlobStoring.Database.Host.ConsoleApp.ConsoleApp.csproj
+  detection_source: modules/blob-storing-database/host/BlobStoring.Database.Host.ConsoleApp/src/BlobStoring.Database.Host.ConsoleApp.ConsoleApp/BlobStoring.Database.Host.ConsoleApp.ConsoleApp.csproj
+  last_updated_by: liangshiwei
+  last_updated_on: 2021-09-20 09:02:44.000000000 Z
+- name: Serilog.Sinks.File
+  description: Write Serilog events to text files in plain or JSON format
+  package_url: https://www.nuget.org/Serilog.Sinks.File
+  version: 5.0.0
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13085/default_baa6c1c3e725b18a803052f0d13efd0ca49e5d50.png
+  detection_source_url: github.com/ss-test-org-asp-org/abp/blob/dev/modules/basic-theme/test/Volo.Abp.AspNetCore.Mvc.UI.Bootstrap.Demo/Volo.Abp.AspNetCore.Mvc.UI.Bootstrap.Demo.csproj
+  detection_source: modules/basic-theme/test/Volo.Abp.AspNetCore.Mvc.UI.Bootstrap.Demo/Volo.Abp.AspNetCore.Mvc.UI.Bootstrap.Demo.csproj
+  last_updated_by: liangshiwei
+  last_updated_on: 2021-09-20 09:02:44.000000000 Z
+- name: Shouldly
+  description: Shouldly - Assertion framework for .NET
+  package_url: https://www.nuget.org/Shouldly
+  version: 4.0.3
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13821/default_d358fd76413e7b8cc458411fede039268825f8c2.png
+  detection_source_url: github.com/ss-test-org-asp-org/abp/blob/dev/modules/basic-theme/test/Volo.Abp.AspNetCore.Mvc.UI.Bootstrap.Demo.Tests/Volo.Abp.AspNetCore.Mvc.UI.Bootstrap.Demo.Tests.csproj
+  detection_source: framework/test/AbpTestBase/AbpTestBase.csproj
+  last_updated_by: maliming
+  last_updated_on: 2020-11-17 09:19:11.000000000 Z
+- name: SixLabors.ImageSharp
+  description: A cross-platform library for the processing of image files; written
+    in C#
+  package_url: https://www.nuget.org/SixLabors.ImageSharp
+  version: 1.0.4
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13201/default_44258eb565a346d4baf5243c0df2a219253fec1a.png
+  detection_source_url: github.com/ss-test-org-asp-org/abp/blob/dev/modules/blogging/src/Volo.Blogging.Admin.Application/Volo.Blogging.Admin.Application.csproj
+  detection_source: modules/blogging/src/Volo.Blogging.Admin.Application/Volo.Blogging.Admin.Application.csproj
+  last_updated_by: Engincan VESKE
+  last_updated_on: 2021-11-01 14:10:32.000000000 Z
+- name: Swashbuckle.AspNetCore
+  description: Swagger tools for documenting APIs built on ASP.NET Core
+  package_url: https://www.nuget.org/Swashbuckle.AspNetCore
+  version: 6.2.1
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12981/default_aa8a6e377c22dbeff795489a5ab127b1d597b5ed.png
+  detection_source_url: github.com/ss-test-org-asp-org/abp/blob/dev/framework/src/Volo.Abp.Swashbuckle/Volo.Abp.Swashbuckle.csproj
+  detection_source: framework/src/Volo.Abp.Swashbuckle/Volo.Abp.Swashbuckle.csproj
+  last_updated_by: liangshiwei
+  last_updated_on: 2021-09-20 06:27:52.000000000 Z
+- name: System.IO.Abstractions
+  description: A set of abstractions to help make file system interactions testable
+  package_url: https://www.nuget.org/System.IO.Abstractions
+  version: 13.2.28
+  license: MS-PL
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13236/default_44258eb565a346d4baf5243c0df2a219253fec1a.png
+  detection_source_url: github.com/ss-test-org-asp-org/abp/blob/dev/studio/src/Volo.Abp.Studio.Domain.CommonServices/Volo.Abp.Studio.Domain.CommonServices.csproj
+  detection_source: studio/src/Volo.Abp.Studio.Domain.CommonServices/Volo.Abp.Studio.Domain.CommonServices.csproj
+  last_updated_by: Yunus Emre Kalkan
+  last_updated_on: 2021-08-27 08:52:10.000000000 Z
+- name: System.Security.Principal.Windows
+  description: Provides classes for retrieving the current Windows user and for interacting
+    with Windows users and groups
+  package_url: https://www.nuget.org/System.Security.Principal.Windows
+  version: 5.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13048/default_1b8be57b16f1f491c0e5f67e5d1021f4df68ea30.png
+  detection_source_url: github.com/ss-test-org-asp-org/abp/blob/dev/modules/account/src/Volo.Abp.Account.Web.IdentityServer/Volo.Abp.Account.Web.IdentityServer.csproj
+  detection_source: modules/account/src/Volo.Abp.Account.Web.IdentityServer/Volo.Abp.Account.Web.IdentityServer.csproj
+  last_updated_by: maliming
+  last_updated_on: 2021-09-15 05:54:27.000000000 Z
+- name: System.Text.Encodings.Web
+  description: Provides types for encoding and escaping strings for use in JavaScript,
+    HyperText Markup Language
+  package_url: https://www.nuget.org/System.Text.Encodings.Web
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13209/default_42e87535b59c0cd77a89678c1c4ed24abc143f58.png
+  detection_source: modules/account/src/Volo.Abp.Account.Application/Volo.Abp.Account.Application.csproj
+  last_updated_by: maliming
+  last_updated_on: 2020-11-17 09:19:11.000000000 Z
+- name: xunit.extensibility.execution
+  description: Includes xunit.execution.*.dll for extensibility purposes
+  package_url: https://www.nuget.org/xunit.extensibility.execution
+  version: 2.4.1
+  license: Other
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13498/default_83bd69dd2d30bd3eae917c5ac8376fd500016904.png
+  detection_source_url: github.com/ss-test-org-asp-org/abp/blob/dev/modules/basic-theme/test/Volo.Abp.AspNetCore.Mvc.UI.Bootstrap.Demo.Tests/Volo.Abp.AspNetCore.Mvc.UI.Bootstrap.Demo.Tests.csproj
+  detection_source: framework/test/AbpTestBase/AbpTestBase.csproj
+  last_updated_by: maliming
+  last_updated_on: 2020-11-17 09:19:11.000000000 Z
+- name: xunit.runner.visualstudio
+  description: Visual Studio 2012+ Test Explorer runner for the xUnit.net framework
+  package_url: https://www.nuget.org/xunit.runner.visualstudio
+  version: 2.4.3
+  license: Other
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13260/default_d2db5a200c4fe2d08cbdb2174cc230708973870b.png
+  detection_source_url: github.com/ss-test-org-asp-org/abp/blob/dev/modules/basic-theme/test/Volo.Abp.AspNetCore.Mvc.UI.Bootstrap.Demo.Tests/Volo.Abp.AspNetCore.Mvc.UI.Bootstrap.Demo.Tests.csproj
+  detection_source: framework/test/AbpTestBase/AbpTestBase.csproj
+  last_updated_by: maliming
+  last_updated_on: 2020-11-17 09:19:11.000000000 Z
+- name: cobra
+  description: A Commander for modern Go CLI interactions
+  package_url: https://pkg.go.dev/github.com/spf13/cobra
+  version: 0.0.3
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: github.com/ss-test-org-asp-org/abp/blob/dev/tools/github-changelog-generator/src/GithubChangelogGenerator/go.sum
+  detection_source: tools/github-changelog-generator/src/GithubChangelogGenerator/go.mod
+  last_updated_by: Arkat Erol
+  last_updated_on: 2019-11-20 12:13:27.000000000 Z
+- name: go-github
+  description: Go library for accessing the GitHub API
+  package_url: https://pkg.go.dev/github.com/google/go-github
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source: tools/github-changelog-generator/src/GithubChangelogGenerator/go.mod
+  last_updated_by: Arkat Erol
+  last_updated_on: 2019-11-20 12:13:27.000000000 Z
+- name: go-querystring
+  description: Go-querystring is Go library for encoding structs into URL query parameters
+  package_url: https://pkg.go.dev/github.com/google/go-querystring
+  version: 1.0.0
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: github.com/ss-test-org-asp-org/abp/blob/dev/tools/github-changelog-generator/src/GithubChangelogGenerator/go.sum
+  detection_source: tools/github-changelog-generator/src/GithubChangelogGenerator/go.mod
+  last_updated_by: Arkat Erol
+  last_updated_on: 2019-11-20 12:13:27.000000000 Z
+- name: mousetrap
+  description: Detect starting from Windows explorer
+  package_url: https://pkg.go.dev/github.com/inconshreveable/mousetrap
+  version: 1.0.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: github.com/ss-test-org-asp-org/abp/blob/dev/tools/github-changelog-generator/src/GithubChangelogGenerator/go.sum
+  detection_source: tools/github-changelog-generator/src/GithubChangelogGenerator/go.mod
+  last_updated_by: Arkat Erol
+  last_updated_on: 2019-11-20 12:13:27.000000000 Z
+- name: oauth2
+  description: Go OAuth2
+  package_url: https://pkg.go.dev/golang.org/x/oauth2
+  version: 0.0.0
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: github.com/ss-test-org-asp-org/abp/blob/dev/tools/github-changelog-generator/src/GithubChangelogGenerator/go.sum
+  detection_source: tools/github-changelog-generator/src/GithubChangelogGenerator/go.mod
+  last_updated_by: Arkat Erol
+  last_updated_on: 2019-11-20 12:13:27.000000000 Z
+- name: toml
+  description: TOML parser for Golang with reflection
+  package_url: https://pkg.go.dev/github.com/BurntSushi/toml
+  version: 0.3.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: github.com/ss-test-org-asp-org/abp/blob/dev/tools/github-changelog-generator/src/GithubChangelogGenerator/go.sum
+  detection_source: tools/github-changelog-generator/src/GithubChangelogGenerator/go.mod
+  last_updated_by: Arkat Erol
+  last_updated_on: 2019-11-20 12:13:27.000000000 Z
+- name: viper
+  description: Go configuration with fangs
+  package_url: https://pkg.go.dev/github.com/spf13/viper
+  version: 1.3.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: github.com/ss-test-org-asp-org/abp/blob/dev/tools/github-changelog-generator/src/GithubChangelogGenerator/go.sum
+  detection_source: tools/github-changelog-generator/src/GithubChangelogGenerator/go.mod
+  last_updated_by: Arkat Erol
+  last_updated_on: 2019-11-20 12:13:27.000000000 Z
